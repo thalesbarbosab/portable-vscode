@@ -1,0 +1,50 @@
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php"
+Teste
+[Done] exited with code=0 in 0.34 seconds
+
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\index.php"
+Teste
+[Done] exited with code=0 in 0.367 seconds
+
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\index.php"
+Teste<br>
+[Done] exited with code=0 in 0.349 seconds
+
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\index.php"
+Teste<br>
+[Done] exited with code=0 in 0.266 seconds
+
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\index.php"
+Teste<br>
+[Done] exited with code=0 in 0.305 seconds
+
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php"
+Teste<br>
+[Done] exited with code=0 in 0.322 seconds
+
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php"
+Teste<br>Teste
+[Done] exited with code=0 in 0.342 seconds
+
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php"
+Teste
+<br>Teste
+[Done] exited with code=0 in 0.3 seconds
+
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php"
+Teste
+
+Teste
+[Done] exited with code=0 in 0.368 seconds
+
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php"
+PHP Parse error:  syntax error, unexpected end of file in E:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php on line 3
+
+[Done] exited with code=255 in 0.297 seconds
+
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php"
+Teste
+
+Testex
+[Done] exited with code=0 in 0.28 seconds
+

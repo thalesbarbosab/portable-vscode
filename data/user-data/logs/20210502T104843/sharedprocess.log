@@ -1,0 +1,19 @@
+[2021-05-02 10:49:26.825] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-05-02 15:42:06.733] [sharedprocess] [info] Installing extension: mikestead.dotenv
+[2021-05-02 15:42:07.093] [sharedprocess] [info] Downloaded extension: mikestead.dotenv undefined
+[2021-05-02 15:42:07.145] [sharedprocess] [info] Extracted extension to C:\Code\portable-vscode\data\extensions\.047f4c95-d287-4a24-b30c-a5a26add6889: mikestead.dotenv
+[2021-05-02 15:42:07.164] [sharedprocess] [info] Renamed to C:\Code\portable-vscode\data\extensions\mikestead.dotenv-1.0.1
+[2021-05-02 15:42:07.174] [sharedprocess] [info] Installation completed. mikestead.dotenv
+[2021-05-02 15:42:07.179] [sharedprocess] [info] Extensions installed successfully: mikestead.dotenv
+[2021-05-02 15:45:18.444] [sharedprocess] [info] Installing extension: christian-kohler.path-intellisense
+[2021-05-02 15:45:18.793] [sharedprocess] [info] Downloaded extension: christian-kohler.path-intellisense undefined
+[2021-05-02 15:45:18.926] [sharedprocess] [info] Extracted extension to C:\Code\portable-vscode\data\extensions\.f8f048f4-015b-433a-8817-fdf127c00b9d: christian-kohler.path-intellisense
+[2021-05-02 15:45:18.948] [sharedprocess] [info] Renamed to C:\Code\portable-vscode\data\extensions\christian-kohler.path-intellisense-2.3.0
+[2021-05-02 15:45:18.958] [sharedprocess] [info] Installation completed. christian-kohler.path-intellisense
+[2021-05-02 15:45:18.962] [sharedprocess] [info] Extensions installed successfully: christian-kohler.path-intellisense
+[2021-05-02 15:49:16.149] [sharedprocess] [info] Installing extension: bmewburn.vscode-intelephense-client
+[2021-05-02 15:49:17.028] [sharedprocess] [info] Downloaded extension: bmewburn.vscode-intelephense-client undefined
+[2021-05-02 15:49:18.047] [sharedprocess] [info] Extracted extension to C:\Code\portable-vscode\data\extensions\.6fa78211-c335-47b3-a6e2-3f30719a2288: bmewburn.vscode-intelephense-client
+[2021-05-02 15:49:18.075] [sharedprocess] [info] Renamed to C:\Code\portable-vscode\data\extensions\bmewburn.vscode-intelephense-client-1.7.1
+[2021-05-02 15:49:18.087] [sharedprocess] [info] Installation completed. bmewburn.vscode-intelephense-client
+[2021-05-02 15:49:18.091] [sharedprocess] [info] Extensions installed successfully: bmewburn.vscode-intelephense-client

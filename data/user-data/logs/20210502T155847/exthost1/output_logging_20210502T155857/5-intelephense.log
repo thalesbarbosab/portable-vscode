@@ -1,0 +1,33 @@
+[Info  - 3:58:57 PM] Initialising intelephense 1.7.1
+[Info  - 3:58:57 PM] Reading state from c:\Code\portable-vscode\data\user-data\User\workspaceStorage\64a11a5e5de7681672554c98b8cf6571\bmewburn.vscode-intelephense-client\2fa048a5.
+[Info  - 3:58:57 PM] Initialised in 246 ms
+[Info  - 3:58:57 PM] Environment changed. Refreshing 1 in memory documents.
+[Info  - 3:58:57 PM] Indexing started.
+[Info  - 3:58:59 PM] Indexing ended. 126 files indexed in 1s.
+[Info  - 3:58:59 PM] Writing state to c:\Code\portable-vscode\data\user-data\User\workspaceStorage\64a11a5e5de7681672554c98b8cf6571\bmewburn.vscode-intelephense-client\2fa048a5.
+[Info  - 3:58:59 PM] Wrote state in 0.4s.
+[Info  - 3:59:48 PM] Indexing started.
+[Warn  - 3:59:48 PM] Error: ENOENT: no such file or directory, open 'e:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php'
+[Info  - 3:59:48 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:59:48 PM] Indexing started.
+[Info  - 3:59:48 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:09:18 PM] Indexing started.
+[Warn  - 4:09:19 PM] Error: ENOENT: no such file or directory, open 'e:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php'
+[Info  - 4:09:19 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:09:19 PM] Indexing started.
+[Info  - 4:09:19 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:09:43 PM] Indexing started.
+[Warn  - 4:09:43 PM] Error: ENOENT: no such file or directory, open 'e:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php'
+[Info  - 4:09:43 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:09:43 PM] Indexing started.
+[Info  - 4:09:43 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:10:00 PM] Indexing started.
+[Warn  - 4:10:00 PM] Error: ENOENT: no such file or directory, open 'e:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php'
+[Info  - 4:10:00 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:10:00 PM] Indexing started.
+[Info  - 4:10:00 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:11:52 PM] Indexing started.
+[Warn  - 4:11:52 PM] Error: ENOENT: no such file or directory, open 'e:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php'
+[Info  - 4:11:52 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:11:52 PM] Indexing started.
+[Info  - 4:11:53 PM] Indexing ended. 1 files indexed in 0s.

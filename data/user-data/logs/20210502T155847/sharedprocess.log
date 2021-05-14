@@ -1,0 +1,61 @@
+[2021-05-02 15:59:29.016] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-05-02 16:14:52.255] [sharedprocess] [info] Installing extension: amiralizadeh9480.laravel-extra-intellisense
+[2021-05-02 16:14:52.850] [sharedprocess] [info] Downloaded extension: amiralizadeh9480.laravel-extra-intellisense undefined
+[2021-05-02 16:14:52.976] [sharedprocess] [info] Extracted extension to C:\Code\portable-vscode\data\extensions\.22053b55-3199-4704-abfd-6a0c848b0fe9: amiralizadeh9480.laravel-extra-intellisense
+[2021-05-02 16:14:53.000] [sharedprocess] [info] Renamed to C:\Code\portable-vscode\data\extensions\amiralizadeh9480.laravel-extra-intellisense-0.6.1
+[2021-05-02 16:14:53.066] [sharedprocess] [info] Installation completed. amiralizadeh9480.laravel-extra-intellisense
+[2021-05-02 16:14:53.070] [sharedprocess] [info] Extensions installed successfully: amiralizadeh9480.laravel-extra-intellisense
+[2021-05-02 16:17:47.946] [sharedprocess] [info] Uninstalling extension: amiralizadeh9480.laravel-extra-intellisense
+[2021-05-02 16:17:47.959] [sharedprocess] [info] Successfully uninstalled extension: amiralizadeh9480.laravel-extra-intellisense
+[2021-05-02 16:18:12.321] [sharedprocess] [info] Installing extension: onecentlin.laravel-extension-pack
+[2021-05-02 16:18:13.714] [sharedprocess] [info] Downloaded extension: onecentlin.laravel-extension-pack undefined
+[2021-05-02 16:18:13.772] [sharedprocess] [info] Extracted extension to C:\Code\portable-vscode\data\extensions\.cb62e13f-f156-4ad4-ac5e-868518b601a8: onecentlin.laravel-extension-pack
+[2021-05-02 16:18:13.796] [sharedprocess] [info] Renamed to C:\Code\portable-vscode\data\extensions\onecentlin.laravel-extension-pack-1.0.0
+[2021-05-02 16:18:13.819] [sharedprocess] [info] Installation completed. onecentlin.laravel-extension-pack
+[2021-05-02 16:18:14.047] [sharedprocess] [info] Installing extension: felixfbecker.php-debug
+[2021-05-02 16:18:14.048] [sharedprocess] [info] Installing extension: editorconfig.editorconfig
+[2021-05-02 16:18:14.048] [sharedprocess] [info] Installing extension: onecentlin.laravel-blade
+[2021-05-02 16:18:14.049] [sharedprocess] [info] Installing extension: onecentlin.laravel5-snippets
+[2021-05-02 16:18:14.049] [sharedprocess] [info] Installing extension: ryannaddy.laravel-artisan
+[2021-05-02 16:18:14.049] [sharedprocess] [info] Installing extension: codingyu.laravel-goto-view
+[2021-05-02 16:18:14.050] [sharedprocess] [info] Installing extension: amiralizadeh9480.laravel-extra-intellisense
+[2021-05-02 16:18:14.050] [sharedprocess] [info] Installing extension: stef-k.laravel-goto-controller
+[2021-05-02 16:18:14.101] [sharedprocess] [info] Downloaded extension: amiralizadeh9480.laravel-extra-intellisense undefined
+[2021-05-02 16:18:14.132] [sharedprocess] [info] Removed the extension from uninstalled list: amiralizadeh9480.laravel-extra-intellisense
+[2021-05-02 16:18:14.135] [sharedprocess] [info] Extensions installed successfully: amiralizadeh9480.laravel-extra-intellisense
+[2021-05-02 16:18:14.376] [sharedprocess] [info] Downloaded extension: onecentlin.laravel5-snippets undefined
+[2021-05-02 16:18:14.517] [sharedprocess] [info] Downloaded extension: editorconfig.editorconfig undefined
+[2021-05-02 16:18:14.557] [sharedprocess] [info] Downloaded extension: onecentlin.laravel-blade undefined
+[2021-05-02 16:18:14.565] [sharedprocess] [info] Downloaded extension: felixfbecker.php-debug undefined
+[2021-05-02 16:18:14.786] [sharedprocess] [info] Extracted extension to C:\Code\portable-vscode\data\extensions\.1d1cf4d2-b2d9-487a-93e8-9d487ca064b5: onecentlin.laravel5-snippets
+[2021-05-02 16:18:14.832] [sharedprocess] [info] Renamed to C:\Code\portable-vscode\data\extensions\onecentlin.laravel5-snippets-1.12.0
+[2021-05-02 16:18:14.855] [sharedprocess] [info] Installation completed. onecentlin.laravel5-snippets
+[2021-05-02 16:18:14.866] [sharedprocess] [info] Extensions installed successfully: onecentlin.laravel5-snippets
+[2021-05-02 16:18:15.109] [sharedprocess] [info] Extracted extension to C:\Code\portable-vscode\data\extensions\.48a6ffd8-90b6-48b2-9a60-6ffef4a20dc2: editorconfig.editorconfig
+[2021-05-02 16:18:15.171] [sharedprocess] [info] Renamed to C:\Code\portable-vscode\data\extensions\editorconfig.editorconfig-0.16.4
+[2021-05-02 16:18:15.232] [sharedprocess] [info] Installation completed. editorconfig.editorconfig
+[2021-05-02 16:18:15.239] [sharedprocess] [info] Extensions installed successfully: editorconfig.editorconfig
+[2021-05-02 16:18:15.679] [sharedprocess] [info] Downloaded extension: codingyu.laravel-goto-view undefined
+[2021-05-02 16:18:15.747] [sharedprocess] [info] Downloaded extension: ryannaddy.laravel-artisan undefined
+[2021-05-02 16:18:15.809] [sharedprocess] [info] Extracted extension to C:\Code\portable-vscode\data\extensions\.e1fc26b9-8f58-4f3c-917b-eb11ce8db202: codingyu.laravel-goto-view
+[2021-05-02 16:18:15.836] [sharedprocess] [info] Renamed to C:\Code\portable-vscode\data\extensions\codingyu.laravel-goto-view-1.3.4
+[2021-05-02 16:18:15.864] [sharedprocess] [info] Installation completed. codingyu.laravel-goto-view
+[2021-05-02 16:18:15.876] [sharedprocess] [info] Extensions installed successfully: codingyu.laravel-goto-view
+[2021-05-02 16:18:16.271] [sharedprocess] [info] Extracted extension to C:\Code\portable-vscode\data\extensions\.b5609949-b007-4893-8e93-21bbab656620: ryannaddy.laravel-artisan
+[2021-05-02 16:18:16.309] [sharedprocess] [info] Renamed to C:\Code\portable-vscode\data\extensions\ryannaddy.laravel-artisan-0.0.27
+[2021-05-02 16:18:16.320] [sharedprocess] [info] Installation completed. ryannaddy.laravel-artisan
+[2021-05-02 16:18:16.326] [sharedprocess] [info] Extensions installed successfully: ryannaddy.laravel-artisan
+[2021-05-02 16:18:16.462] [sharedprocess] [info] Downloaded extension: stef-k.laravel-goto-controller undefined
+[2021-05-02 16:18:16.671] [sharedprocess] [info] Extracted extension to C:\Code\portable-vscode\data\extensions\.70da5be2-cb34-4576-9e54-494b352db8a1: stef-k.laravel-goto-controller
+[2021-05-02 16:18:16.696] [sharedprocess] [info] Renamed to C:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12
+[2021-05-02 16:18:16.706] [sharedprocess] [info] Installation completed. stef-k.laravel-goto-controller
+[2021-05-02 16:18:16.710] [sharedprocess] [info] Extensions installed successfully: stef-k.laravel-goto-controller
+[2021-05-02 16:18:17.856] [sharedprocess] [info] Extracted extension to C:\Code\portable-vscode\data\extensions\.97af4f63-024f-4c93-951e-273d8a67743b: onecentlin.laravel-blade
+[2021-05-02 16:18:17.882] [sharedprocess] [info] Renamed to C:\Code\portable-vscode\data\extensions\onecentlin.laravel-blade-1.25.0
+[2021-05-02 16:18:17.894] [sharedprocess] [info] Installation completed. onecentlin.laravel-blade
+[2021-05-02 16:18:17.910] [sharedprocess] [info] Extensions installed successfully: onecentlin.laravel-blade
+[2021-05-02 16:18:17.928] [sharedprocess] [info] Extracted extension to C:\Code\portable-vscode\data\extensions\.693da97a-92da-4ae1-a1ff-e919fd3559c6: felixfbecker.php-debug
+[2021-05-02 16:18:17.954] [sharedprocess] [info] Renamed to C:\Code\portable-vscode\data\extensions\felixfbecker.php-debug-1.14.12
+[2021-05-02 16:18:17.965] [sharedprocess] [info] Installation completed. felixfbecker.php-debug
+[2021-05-02 16:18:17.978] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-debug
+[2021-05-02 16:18:17.979] [sharedprocess] [info] Extensions installed successfully: onecentlin.laravel-extension-pack

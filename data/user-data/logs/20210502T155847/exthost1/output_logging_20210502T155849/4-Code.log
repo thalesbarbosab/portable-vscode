@@ -1,0 +1,45 @@
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php"
+Testex
+[Done] exited with code=0 in 0.279 seconds
+
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\index.php"
+PHP Parse error:  syntax error, unexpected identifier "sdasdasd", expecting "," or ";" in E:\Users\Thales Barbosa Bento\Downloads\test\index.php on line 4
+
+[Done] exited with code=255 in 0.365 seconds
+
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php"
+
+[Done] exited with code=0 in 0.381 seconds
+
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php"
+PHP Parse error:  syntax error, unexpected token "public", expecting end of file in E:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php on line 2
+
+[Done] exited with code=255 in 0.37 seconds
+
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php"
+PHP Fatal error:  Uncaught Error: Call to undefined function dd() in E:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php:2
+Stack trace:
+#0 {main}
+  thrown in E:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php on line 2
+
+[Done] exited with code=255 in 0.369 seconds
+
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\index.php"
+Teste
+
+Testexstring(4) "here"
+
+[Done] exited with code=0 in 0.362 seconds
+
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\index.php"
+Teste
+
+Testexstring(4) "here"
+
+[Done] exited with code=0 in 0.297 seconds
+
+[Running] php "e:\Users\Thales Barbosa Bento\Downloads\test\tempCodeRunnerFile.php"
+string(4) "here"
+
+[Done] exited with code=0 in 0.338 seconds
+

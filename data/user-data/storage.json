@@ -1,0 +1,36 @@
+{
+    "telemetry.machineId": "8ea360e7d2d738ff05422cbd4085ea52b9049dc274a68fc8d6bdf1079de188c9",
+    "openedPathsList": {
+        "entries": [
+            {
+                "folderUri": "file:///c%3A/Code/mondelez.gigantesdaexecucao"
+            },
+            {
+                "folderUri": "file:///c%3A/Code/dreamsfinance"
+            },
+            {
+                "folderUri": "file:///c%3A/Code/igreja-de-cristo"
+            },
+            {
+                "folderUri": "file:///e%3A/Users/Thales%20Barbosa%20Bento/Downloads/test"
+            }
+        ]
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///c%3A/Code/mondelez.gigantesdaexecucao",
+            "backupPath": "C:\\Code\\portable-vscode\\data\\user-data\\Backups\\30808006e021d2611c343b28bf30695c",
+            "uiState": {
+                "mode": 0,
+                "x": 1768,
+                "y": 0,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    },
+    "pickerWorkingDir": "C:\\Code"
+}

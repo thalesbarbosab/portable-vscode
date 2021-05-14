@@ -1,0 +1,298 @@
+[2021-05-02 15:58:49.204] [exthost] [info] extension host started
+[2021-05-02 15:58:49.265] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-05-02 15:58:49.265] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-05-02 15:58:49.283] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-02 15:58:49.283] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-05-02 15:58:49.289] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-02 15:58:49.289] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/git/dist/main
+[2021-05-02 15:58:49.323] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-05-02 15:58:49.323] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/christian-kohler.path-intellisense-2.3.0/out/extension.js
+[2021-05-02 15:58:49.443] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-02 15:58:49.443] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-02 15:58:49.724] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-02 15:58:49.724] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github/dist/extension.js
+[2021-05-02 15:58:49.760] [exthost] [info] eager extensions activated
+[2021-05-02 15:58:49.762] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-05-02 15:58:49.762] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github-authentication/dist/extension.js
+[2021-05-02 15:58:49.775] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-05-02 15:58:49.775] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-02 15:58:49.787] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-02 15:58:49.787] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-02 15:58:49.792] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl-recommender","_lower":"ms-vscode-remote.remote-wsl-recommender"},"activationEvent":"onStartupFinished"}
+[2021-05-02 15:58:49.792] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-05-02 15:58:49.805] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-02 15:58:49.805] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-02 15:58:49.808] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-05-02 15:58:49.808] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/formulahendry.code-runner-0.11.3/out/src/extension
+[2021-05-02 15:58:49.925] [exthost] [info] WSL is not installed, so could not detect WSL profiles
+[2021-05-02 15:58:56.680] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-05-02 15:58:56.681] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/php-language-features/dist/phpMain
+[2021-05-02 15:58:56.693] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client {"startup":false,"extensionId":{"value":"bmewburn.vscode-intelephense-client","_lower":"bmewburn.vscode-intelephense-client"},"activationEvent":"onLanguage:php"}
+[2021-05-02 15:58:56.693] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension
+[2021-05-02 15:59:39.222] [exthost] [info] WSL is not installed, so could not detect WSL profiles
+[2021-05-02 15:59:49.051] [exthost] [info] WSL is not installed, so could not detect WSL profiles
+[2021-05-02 15:59:59.099] [exthost] [info] WSL is not installed, so could not detect WSL profiles
+[2021-05-02 16:01:38.966] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-05-02 16:01:38.966] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-05-02 16:01:38.971] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-05-02 16:01:38.971] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-05-02 16:01:39.018] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-05-02 16:01:39.018] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/typescript-language-features/dist/extension
+[2021-05-02 16:12:33.722] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-05-02 16:12:33.722] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-05-02 16:12:33.839] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-05-02 16:12:33.840] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/npm/dist/npmMain
+[2021-05-02 16:12:34.247] [exthost] [info] WSL is not installed, so could not detect WSL profiles
+[2021-05-02 16:14:53.173] [exthost] [info] ExtensionService#_doActivateExtension amiralizadeh9480.laravel-extra-intellisense {"startup":false,"extensionId":{"value":"amiralizadeh9480.laravel-extra-intellisense","_lower":"amiralizadeh9480.laravel-extra-intellisense"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:14:53.173] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.1/dist/extension.js
+[2021-05-02 16:15:19.143] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-02 16:15:19.360] [exthost] [info] WSL is not installed, so could not detect WSL profiles
+[2021-05-02 16:15:20.168] [exthost] [info] exiting with code 0
+[2021-05-02 16:15:20.931] [exthost] [info] extension host started
+[2021-05-02 16:15:21.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-05-02 16:15:21.004] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-05-02 16:15:21.015] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-02 16:15:21.015] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-05-02 16:15:21.019] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-02 16:15:21.019] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/git/dist/main
+[2021-05-02 16:15:21.037] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-05-02 16:15:21.038] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/christian-kohler.path-intellisense-2.3.0/out/extension.js
+[2021-05-02 16:15:21.081] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-05-02 16:15:21.081] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/npm/dist/npmMain
+[2021-05-02 16:15:21.160] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-02 16:15:21.160] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-02 16:15:21.281] [exthost] [info] WSL is not installed, so could not detect WSL profiles
+[2021-05-02 16:15:21.301] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-05-02 16:15:21.301] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github-authentication/dist/extension.js
+[2021-05-02 16:15:21.507] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-02 16:15:21.507] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github/dist/extension.js
+[2021-05-02 16:15:22.012] [exthost] [info] eager extensions activated
+[2021-05-02 16:15:22.021] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:15:22.021] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-02 16:15:22.028] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:15:22.028] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-02 16:15:22.031] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl-recommender","_lower":"ms-vscode-remote.remote-wsl-recommender"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:15:22.031] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-05-02 16:15:22.041] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:15:22.041] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-02 16:15:22.043] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:15:22.043] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/formulahendry.code-runner-0.11.3/out/src/extension
+[2021-05-02 16:15:27.588] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-05-02 16:15:27.588] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-05-02 16:15:27.593] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-05-02 16:15:27.593] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-05-02 16:15:27.646] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-05-02 16:15:27.646] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/typescript-language-features/dist/extension
+[2021-05-02 16:15:36.605] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:15:36.605] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/php-language-features/dist/phpMain
+[2021-05-02 16:15:36.613] [exthost] [info] ExtensionService#_doActivateExtension amiralizadeh9480.laravel-extra-intellisense {"startup":false,"extensionId":{"value":"amiralizadeh9480.laravel-extra-intellisense","_lower":"amiralizadeh9480.laravel-extra-intellisense"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:15:36.613] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.1/dist/extension.js
+[2021-05-02 16:15:36.622] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client {"startup":false,"extensionId":{"value":"bmewburn.vscode-intelephense-client","_lower":"bmewburn.vscode-intelephense-client"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:15:36.622] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension
+[2021-05-02 16:15:54.456] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-05-02 16:15:54.456] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (c:\Code\portable-vscode\data\extensions\bmewburn.vscode-intelephense-client-1.7.1\lib\extension.js:1:128391)
+	at w.handleFailedRequest (c:\Code\portable-vscode\data\extensions\bmewburn.vscode-intelephense-client-1.7.1\lib\extension.js:1:128242)
+	at c:\Code\portable-vscode\data\extensions\bmewburn.vscode-intelephense-client-1.7.1\lib\extension.js:1:93115
+[2021-05-02 16:16:21.395] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-05-02 16:16:21.395] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (c:\Code\portable-vscode\data\extensions\bmewburn.vscode-intelephense-client-1.7.1\lib\extension.js:1:128391)
+	at w.handleFailedRequest (c:\Code\portable-vscode\data\extensions\bmewburn.vscode-intelephense-client-1.7.1\lib\extension.js:1:128242)
+	at c:\Code\portable-vscode\data\extensions\bmewburn.vscode-intelephense-client-1.7.1\lib\extension.js:1:93115
+[2021-05-02 16:16:35.649] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-05-02 16:16:35.649] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (c:\Code\portable-vscode\data\extensions\bmewburn.vscode-intelephense-client-1.7.1\lib\extension.js:1:128391)
+	at w.handleFailedRequest (c:\Code\portable-vscode\data\extensions\bmewburn.vscode-intelephense-client-1.7.1\lib\extension.js:1:128242)
+	at c:\Code\portable-vscode\data\extensions\bmewburn.vscode-intelephense-client-1.7.1\lib\extension.js:1:88457
+[2021-05-02 16:16:57.620] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-02 16:16:58.645] [exthost] [info] exiting with code 0
+[2021-05-02 16:16:59.520] [exthost] [info] extension host started
+[2021-05-02 16:16:59.628] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-05-02 16:16:59.628] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-05-02 16:16:59.640] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:16:59.640] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/php-language-features/dist/phpMain
+[2021-05-02 16:16:59.650] [exthost] [info] ExtensionService#_doActivateExtension amiralizadeh9480.laravel-extra-intellisense {"startup":false,"extensionId":{"value":"amiralizadeh9480.laravel-extra-intellisense","_lower":"amiralizadeh9480.laravel-extra-intellisense"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:16:59.650] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.1/dist/extension.js
+[2021-05-02 16:16:59.659] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client {"startup":false,"extensionId":{"value":"bmewburn.vscode-intelephense-client","_lower":"bmewburn.vscode-intelephense-client"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:16:59.659] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension
+[2021-05-02 16:16:59.675] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-02 16:16:59.675] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-05-02 16:16:59.679] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-02 16:16:59.679] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/git/dist/main
+[2021-05-02 16:16:59.698] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-05-02 16:16:59.698] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/npm/dist/npmMain
+[2021-05-02 16:16:59.742] [exthost] [info] WSL is not installed, so could not detect WSL profiles
+[2021-05-02 16:17:00.455] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-02 16:17:00.455] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-02 16:17:00.685] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-05-02 16:17:00.685] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github-authentication/dist/extension.js
+[2021-05-02 16:17:01.266] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-02 16:17:01.266] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github/dist/extension.js
+[2021-05-02 16:17:01.274] [exthost] [info] eager extensions activated
+[2021-05-02 16:17:01.277] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:17:01.277] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-02 16:17:01.285] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:17:01.285] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-02 16:17:01.288] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl-recommender","_lower":"ms-vscode-remote.remote-wsl-recommender"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:17:01.288] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-05-02 16:17:01.296] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:17:01.296] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-02 16:17:01.298] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:17:01.298] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/formulahendry.code-runner-0.11.3/out/src/extension
+[2021-05-02 16:17:05.802] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-05-02 16:17:05.802] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-05-02 16:17:05.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-05-02 16:17:05.807] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-05-02 16:17:05.813] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-05-02 16:17:05.813] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-05-02 16:17:10.061] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-02 16:17:11.622] [exthost] [info] exiting with code 0
+[2021-05-02 16:17:11.994] [exthost] [info] extension host started
+[2021-05-02 16:17:12.163] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-05-02 16:17:12.163] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-05-02 16:17:12.177] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:17:12.177] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/php-language-features/dist/phpMain
+[2021-05-02 16:17:12.186] [exthost] [info] ExtensionService#_doActivateExtension amiralizadeh9480.laravel-extra-intellisense {"startup":false,"extensionId":{"value":"amiralizadeh9480.laravel-extra-intellisense","_lower":"amiralizadeh9480.laravel-extra-intellisense"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:17:12.186] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.1/dist/extension.js
+[2021-05-02 16:17:12.196] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client {"startup":false,"extensionId":{"value":"bmewburn.vscode-intelephense-client","_lower":"bmewburn.vscode-intelephense-client"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:17:12.196] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension
+[2021-05-02 16:17:12.211] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-02 16:17:12.211] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-05-02 16:17:12.214] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-02 16:17:12.214] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/git/dist/main
+[2021-05-02 16:17:12.234] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-05-02 16:17:12.235] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/npm/dist/npmMain
+[2021-05-02 16:17:12.308] [exthost] [info] WSL is not installed, so could not detect WSL profiles
+[2021-05-02 16:17:13.014] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-02 16:17:13.015] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-02 16:17:13.234] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-05-02 16:17:13.234] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github-authentication/dist/extension.js
+[2021-05-02 16:17:13.555] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-02 16:17:13.556] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github/dist/extension.js
+[2021-05-02 16:17:13.676] [exthost] [info] eager extensions activated
+[2021-05-02 16:17:13.679] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:17:13.679] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-02 16:17:13.687] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:17:13.687] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-02 16:17:13.691] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl-recommender","_lower":"ms-vscode-remote.remote-wsl-recommender"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:17:13.691] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-05-02 16:17:13.699] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:17:13.699] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-02 16:17:19.007] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-02 16:17:20.027] [exthost] [info] exiting with code 0
+[2021-05-02 16:17:20.985] [exthost] [info] extension host started
+[2021-05-02 16:17:21.133] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-05-02 16:17:21.133] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-05-02 16:17:21.144] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:17:21.145] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/php-language-features/dist/phpMain
+[2021-05-02 16:17:21.153] [exthost] [info] ExtensionService#_doActivateExtension amiralizadeh9480.laravel-extra-intellisense {"startup":false,"extensionId":{"value":"amiralizadeh9480.laravel-extra-intellisense","_lower":"amiralizadeh9480.laravel-extra-intellisense"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:17:21.153] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.1/dist/extension.js
+[2021-05-02 16:17:21.162] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-02 16:17:21.162] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-05-02 16:17:21.166] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-02 16:17:21.166] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/git/dist/main
+[2021-05-02 16:17:21.186] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-05-02 16:17:21.186] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/npm/dist/npmMain
+[2021-05-02 16:17:21.268] [exthost] [info] WSL is not installed, so could not detect WSL profiles
+[2021-05-02 16:17:21.864] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-02 16:17:21.864] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-02 16:17:22.128] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-05-02 16:17:22.128] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github-authentication/dist/extension.js
+[2021-05-02 16:17:22.337] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-02 16:17:22.337] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github/dist/extension.js
+[2021-05-02 16:17:22.579] [exthost] [info] eager extensions activated
+[2021-05-02 16:17:22.585] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:17:22.585] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-02 16:17:22.593] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:17:22.593] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-02 16:17:22.597] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl-recommender","_lower":"ms-vscode-remote.remote-wsl-recommender"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:17:22.597] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-05-02 16:17:22.606] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:17:22.606] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-02 16:17:44.957] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-05-02 16:17:44.957] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-05-02 16:17:44.964] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-05-02 16:17:44.964] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-05-02 16:17:44.971] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-05-02 16:17:44.971] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-05-02 16:17:51.485] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-02 16:17:52.500] [exthost] [info] exiting with code 0
+[2021-05-02 16:17:53.326] [exthost] [info] extension host started
+[2021-05-02 16:17:53.482] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-05-02 16:17:53.482] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-05-02 16:17:53.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:17:53.494] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/php-language-features/dist/phpMain
+[2021-05-02 16:17:53.503] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-02 16:17:53.503] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-05-02 16:17:53.507] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-02 16:17:53.507] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/git/dist/main
+[2021-05-02 16:17:53.527] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-05-02 16:17:53.527] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/npm/dist/npmMain
+[2021-05-02 16:17:53.676] [exthost] [info] WSL is not installed, so could not detect WSL profiles
+[2021-05-02 16:17:54.133] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-02 16:17:54.133] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-02 16:17:54.277] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-02 16:17:54.277] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github/dist/extension.js
+[2021-05-02 16:17:54.329] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-05-02 16:17:54.329] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github-authentication/dist/extension.js
+[2021-05-02 16:17:54.537] [exthost] [info] eager extensions activated
+[2021-05-02 16:17:54.540] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:17:54.540] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-02 16:17:54.547] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:17:54.548] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-02 16:17:54.551] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl-recommender","_lower":"ms-vscode-remote.remote-wsl-recommender"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:17:54.551] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-05-02 16:17:54.559] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:17:54.559] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-02 16:18:10.737] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-05-02 16:18:10.737] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-05-02 16:18:10.742] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-05-02 16:18:10.742] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-05-02 16:18:10.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-05-02 16:18:10.749] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-05-02 16:18:14.207] [exthost] [info] ExtensionService#_doActivateExtension amiralizadeh9480.laravel-extra-intellisense {"startup":false,"extensionId":{"value":"amiralizadeh9480.laravel-extra-intellisense","_lower":"amiralizadeh9480.laravel-extra-intellisense"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:18:14.207] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.1/dist/extension.js
+[2021-05-02 16:18:15.468] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":false,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-05-02 16:18:15.469] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-05-02 16:18:16.060] [exthost] [info] ExtensionService#_doActivateExtension codingyu.laravel-goto-view {"startup":false,"extensionId":{"value":"codingyu.laravel-goto-view","_lower":"codingyu.laravel-goto-view"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:18:16.060] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/codingyu.laravel-goto-view-1.3.4/out/src/extension
+[2021-05-02 16:18:17.751] [exthost] [info] ExtensionService#_doActivateExtension stef-k.laravel-goto-controller {"startup":false,"extensionId":{"value":"stef-k.laravel-goto-controller","_lower":"stef-k.laravel-goto-controller"},"activationEvent":"*"}
+[2021-05-02 16:18:17.751] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/stef-k.laravel-goto-controller-0.0.12/out/extension
+[2021-05-02 16:18:18.081] [exthost] [info] ExtensionService#_doActivateExtension ryannaddy.laravel-artisan {"startup":false,"extensionId":{"value":"ryannaddy.laravel-artisan","_lower":"ryannaddy.laravel-artisan"},"activationEvent":"workspaceContains:**/artisan"}
+[2021-05-02 16:18:18.081] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/ryannaddy.laravel-artisan-0.0.27/out/src/extension
+[2021-05-02 16:18:52.142] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-02 16:18:52.144] [exthost] [error] TypeError: Cannot read property 'substring' of undefined
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:42:69)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-02 16:25:11.845] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-05-02 16:25:11.845] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/typescript-language-features/dist/extension
+[2021-05-02 16:25:57.897] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-02 16:25:58.926] [exthost] [info] exiting with code 0

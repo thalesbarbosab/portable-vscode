@@ -1,0 +1,978 @@
+[2021-05-03 08:53:11.561] [exthost] [info] extension host started
+[2021-05-03 08:53:11.680] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-05-03 08:53:11.680] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-05-03 08:53:11.753] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-05-03 08:53:11.753] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/php-language-features/dist/phpMain
+[2021-05-03 08:53:11.895] [exthost] [info] ExtensionService#_doActivateExtension amiralizadeh9480.laravel-extra-intellisense {"startup":false,"extensionId":{"value":"amiralizadeh9480.laravel-extra-intellisense","_lower":"amiralizadeh9480.laravel-extra-intellisense"},"activationEvent":"onLanguage:php"}
+[2021-05-03 08:53:11.896] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.1/dist/extension.js
+[2021-05-03 08:53:11.971] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client {"startup":false,"extensionId":{"value":"bmewburn.vscode-intelephense-client","_lower":"bmewburn.vscode-intelephense-client"},"activationEvent":"onLanguage:php"}
+[2021-05-03 08:53:11.971] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension
+[2021-05-03 08:53:12.068] [exthost] [info] ExtensionService#_doActivateExtension codingyu.laravel-goto-view {"startup":false,"extensionId":{"value":"codingyu.laravel-goto-view","_lower":"codingyu.laravel-goto-view"},"activationEvent":"onLanguage:php"}
+[2021-05-03 08:53:12.068] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/codingyu.laravel-goto-view-1.3.4/out/src/extension
+[2021-05-03 08:53:12.135] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-03 08:53:12.135] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-05-03 08:53:12.178] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-03 08:53:12.178] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/git/dist/main
+[2021-05-03 08:53:12.424] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-05-03 08:53:12.424] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/christian-kohler.path-intellisense-2.3.0/out/extension.js
+[2021-05-03 08:53:12.883] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-05-03 08:53:12.883] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-05-03 08:53:13.256] [exthost] [info] ExtensionService#_doActivateExtension stef-k.laravel-goto-controller {"startup":true,"extensionId":{"value":"stef-k.laravel-goto-controller","_lower":"stef-k.laravel-goto-controller"},"activationEvent":"*"}
+[2021-05-03 08:53:13.256] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/stef-k.laravel-goto-controller-0.0.12/out/extension
+[2021-05-03 08:53:13.325] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-05-03 08:53:13.325] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/npm/dist/npmMain
+[2021-05-03 08:53:13.454] [exthost] [info] WSL is not installed, so could not detect WSL profiles
+[2021-05-03 08:53:13.505] [exthost] [info] ExtensionService#_doActivateExtension ryannaddy.laravel-artisan {"startup":true,"extensionId":{"value":"ryannaddy.laravel-artisan","_lower":"ryannaddy.laravel-artisan"},"activationEvent":"workspaceContains:**/artisan"}
+[2021-05-03 08:53:13.505] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/ryannaddy.laravel-artisan-0.0.27/out/src/extension
+[2021-05-03 08:53:15.497] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 08:53:15.500] [exthost] [error] TypeError: Cannot read property 'substring' of undefined
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:42:69)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 08:53:15.622] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-03 08:53:15.622] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-03 08:53:16.237] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-05-03 08:53:16.237] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github-authentication/dist/extension.js
+[2021-05-03 08:53:16.382] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 08:53:16.382] [exthost] [error] TypeError: Cannot read property 'substring' of undefined
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:42:69)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 08:53:16.389] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-03 08:53:16.389] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github/dist/extension.js
+[2021-05-03 08:53:18.631] [exthost] [info] eager extensions activated
+[2021-05-03 08:53:18.635] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-05-03 08:53:18.636] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-03 08:53:18.740] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-03 08:53:18.740] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-03 08:53:18.768] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl-recommender","_lower":"ms-vscode-remote.remote-wsl-recommender"},"activationEvent":"onStartupFinished"}
+[2021-05-03 08:53:18.768] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-05-03 08:53:18.882] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-03 08:53:18.882] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-03 08:53:18.898] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-05-03 08:53:18.898] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/formulahendry.code-runner-0.11.3/out/src/extension
+[2021-05-03 08:53:22.553] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-03 08:53:24.128] [exthost] [info] exiting with code 0
+[2021-05-03 08:53:24.875] [exthost] [info] extension host started
+[2021-05-03 08:53:24.941] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-05-03 08:53:24.942] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-05-03 08:53:24.953] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-03 08:53:24.953] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-05-03 08:53:24.957] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-03 08:53:24.957] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/git/dist/main
+[2021-05-03 08:53:24.976] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-05-03 08:53:24.976] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/christian-kohler.path-intellisense-2.3.0/out/extension.js
+[2021-05-03 08:53:25.056] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-05-03 08:53:25.057] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-05-03 08:53:25.118] [exthost] [info] ExtensionService#_doActivateExtension stef-k.laravel-goto-controller {"startup":true,"extensionId":{"value":"stef-k.laravel-goto-controller","_lower":"stef-k.laravel-goto-controller"},"activationEvent":"*"}
+[2021-05-03 08:53:25.118] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/stef-k.laravel-goto-controller-0.0.12/out/extension
+[2021-05-03 08:53:25.164] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-05-03 08:53:25.164] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/npm/dist/npmMain
+[2021-05-03 08:53:25.285] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-03 08:53:25.285] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-03 08:53:25.491] [exthost] [info] WSL is not installed, so could not detect WSL profiles
+[2021-05-03 08:53:25.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-05-03 08:53:25.494] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github-authentication/dist/extension.js
+[2021-05-03 08:53:25.542] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-03 08:53:25.542] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github/dist/extension.js
+[2021-05-03 08:53:25.694] [exthost] [info] ExtensionService#_doActivateExtension ryannaddy.laravel-artisan {"startup":true,"extensionId":{"value":"ryannaddy.laravel-artisan","_lower":"ryannaddy.laravel-artisan"},"activationEvent":"workspaceContains:**/artisan"}
+[2021-05-03 08:53:25.694] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/ryannaddy.laravel-artisan-0.0.27/out/src/extension
+[2021-05-03 08:53:26.322] [exthost] [info] eager extensions activated
+[2021-05-03 08:53:26.391] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-05-03 08:53:26.391] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-03 08:53:26.398] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-03 08:53:26.398] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-03 08:53:26.401] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl-recommender","_lower":"ms-vscode-remote.remote-wsl-recommender"},"activationEvent":"onStartupFinished"}
+[2021-05-03 08:53:26.401] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-05-03 08:53:26.409] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-03 08:53:26.410] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-03 08:53:26.411] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-05-03 08:53:26.411] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/formulahendry.code-runner-0.11.3/out/src/extension
+[2021-05-03 08:54:08.709] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-05-03 08:54:08.709] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/php-language-features/dist/phpMain
+[2021-05-03 08:54:08.719] [exthost] [info] ExtensionService#_doActivateExtension amiralizadeh9480.laravel-extra-intellisense {"startup":false,"extensionId":{"value":"amiralizadeh9480.laravel-extra-intellisense","_lower":"amiralizadeh9480.laravel-extra-intellisense"},"activationEvent":"onLanguage:php"}
+[2021-05-03 08:54:08.719] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.1/dist/extension.js
+[2021-05-03 08:54:08.728] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client {"startup":false,"extensionId":{"value":"bmewburn.vscode-intelephense-client","_lower":"bmewburn.vscode-intelephense-client"},"activationEvent":"onLanguage:php"}
+[2021-05-03 08:54:08.728] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension
+[2021-05-03 08:54:08.745] [exthost] [info] ExtensionService#_doActivateExtension codingyu.laravel-goto-view {"startup":false,"extensionId":{"value":"codingyu.laravel-goto-view","_lower":"codingyu.laravel-goto-view"},"activationEvent":"onLanguage:php"}
+[2021-05-03 08:54:08.745] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/codingyu.laravel-goto-view-1.3.4/out/src/extension
+[2021-05-03 09:26:34.101] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-03 09:26:35.123] [exthost] [info] exiting with code 0
+[2021-05-03 09:26:35.925] [exthost] [info] extension host started
+[2021-05-03 09:26:36.071] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-05-03 09:26:36.071] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-05-03 09:26:36.082] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-05-03 09:26:36.082] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/php-language-features/dist/phpMain
+[2021-05-03 09:26:36.091] [exthost] [info] ExtensionService#_doActivateExtension amiralizadeh9480.laravel-extra-intellisense {"startup":false,"extensionId":{"value":"amiralizadeh9480.laravel-extra-intellisense","_lower":"amiralizadeh9480.laravel-extra-intellisense"},"activationEvent":"onLanguage:php"}
+[2021-05-03 09:26:36.091] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.1/dist/extension.js
+[2021-05-03 09:26:36.100] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client {"startup":false,"extensionId":{"value":"bmewburn.vscode-intelephense-client","_lower":"bmewburn.vscode-intelephense-client"},"activationEvent":"onLanguage:php"}
+[2021-05-03 09:26:36.100] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension
+[2021-05-03 09:26:36.117] [exthost] [info] ExtensionService#_doActivateExtension codingyu.laravel-goto-view {"startup":false,"extensionId":{"value":"codingyu.laravel-goto-view","_lower":"codingyu.laravel-goto-view"},"activationEvent":"onLanguage:php"}
+[2021-05-03 09:26:36.117] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/codingyu.laravel-goto-view-1.3.4/out/src/extension
+[2021-05-03 09:26:36.129] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-03 09:26:36.130] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-05-03 09:26:36.133] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-03 09:26:36.133] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/git/dist/main
+[2021-05-03 09:26:36.152] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-05-03 09:26:36.152] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/christian-kohler.path-intellisense-2.3.0/out/extension.js
+[2021-05-03 09:26:36.243] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-05-03 09:26:36.243] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-05-03 09:26:36.318] [exthost] [info] ExtensionService#_doActivateExtension stef-k.laravel-goto-controller {"startup":true,"extensionId":{"value":"stef-k.laravel-goto-controller","_lower":"stef-k.laravel-goto-controller"},"activationEvent":"*"}
+[2021-05-03 09:26:36.318] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/stef-k.laravel-goto-controller-0.0.12/out/extension
+[2021-05-03 09:26:36.329] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-05-03 09:26:36.330] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/npm/dist/npmMain
+[2021-05-03 09:26:36.351] [exthost] [info] WSL is not installed, so could not detect WSL profiles
+[2021-05-03 09:26:40.011] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 09:26:40.013] [exthost] [error] TypeError: Cannot read property 'substring' of undefined
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:42:69)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 09:26:40.014] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 09:26:40.014] [exthost] [error] TypeError: Cannot read property 'substring' of undefined
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:42:69)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 09:26:40.188] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-03 09:26:40.188] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github/dist/extension.js
+[2021-05-03 09:26:40.530] [exthost] [info] ExtensionService#_doActivateExtension ryannaddy.laravel-artisan {"startup":true,"extensionId":{"value":"ryannaddy.laravel-artisan","_lower":"ryannaddy.laravel-artisan"},"activationEvent":"workspaceContains:**/artisan"}
+[2021-05-03 09:26:40.530] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/ryannaddy.laravel-artisan-0.0.27/out/src/extension
+[2021-05-03 09:26:40.790] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-03 09:26:40.790] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-03 09:26:41.047] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-05-03 09:26:41.047] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github-authentication/dist/extension.js
+[2021-05-03 09:26:41.613] [exthost] [info] eager extensions activated
+[2021-05-03 09:26:41.640] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-05-03 09:26:41.640] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-03 09:26:41.647] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-03 09:26:41.647] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-03 09:26:41.650] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl-recommender","_lower":"ms-vscode-remote.remote-wsl-recommender"},"activationEvent":"onStartupFinished"}
+[2021-05-03 09:26:41.650] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-05-03 09:26:41.658] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-03 09:26:41.658] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-03 09:26:41.660] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-05-03 09:26:41.660] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/formulahendry.code-runner-0.11.3/out/src/extension
+[2021-05-03 09:45:47.800] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 09:45:47.800] [exthost] [error] Error: ENOENT: no such file or directory, scandir 'c:\Code\mondelez.gigantesdaexecucao/app/Http/Controllers'
+	at Object.readdirSync (fs.js:959:3)
+	at Object.e.readdirSync (electron/js2c/asar_bundle.js:5:10231)
+	at Object.getFilePath (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\util.js:33:23)
+	at Object.provideHover (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\extension.js:12:37)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:159870
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at l.provideHover (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:159850)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:182545
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideHover (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:182521)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 09:45:48.001] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 09:45:48.001] [exthost] [error] Error: ENOENT: no such file or directory, scandir 'c:\Code\mondelez.gigantesdaexecucao/app/Http/Controllers'
+	at Object.readdirSync (fs.js:959:3)
+	at Object.e.readdirSync (electron/js2c/asar_bundle.js:5:10231)
+	at Object.getFilePath (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\util.js:33:23)
+	at Object.provideHover (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\extension.js:12:37)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:159870
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at l.provideHover (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:159850)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:182545
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideHover (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:182521)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 09:46:36.572] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 09:46:36.572] [exthost] [error] TypeError: Cannot read property 'substring' of undefined
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:42:69)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 09:47:00.966] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 09:47:00.966] [exthost] [error] TypeError: Cannot read property 'substring' of undefined
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:42:69)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 09:47:07.367] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 09:47:07.367] [exthost] [error] TypeError: Cannot read property 'substring' of undefined
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:42:69)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 09:49:21.028] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 09:49:21.028] [exthost] [error] TypeError: Cannot read property 'substring' of undefined
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:42:69)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 09:50:32.906] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 09:50:32.907] [exthost] [error] Error: ENOENT: no such file or directory, scandir 'c:\Code\mondelez.gigantesdaexecucao/app/Http/Controllers'
+	at Object.readdirSync (fs.js:959:3)
+	at Object.e.readdirSync (electron/js2c/asar_bundle.js:5:10231)
+	at Object.getFilePath (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\util.js:33:23)
+	at Object.provideHover (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\extension.js:12:37)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:159870
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at l.provideHover (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:159850)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:182545
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideHover (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:182521)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 09:50:43.838] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 09:50:43.838] [exthost] [error] TypeError: Cannot read property 'substring' of undefined
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:42:69)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 09:50:46.021] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 09:50:46.022] [exthost] [error] TypeError: Cannot read property 'substring' of undefined
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:42:69)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 09:50:57.634] [exthost] [info] ExtensionService#_doActivateExtension onecentlin.laravel-blade {"startup":false,"extensionId":{"value":"onecentlin.laravel-blade","_lower":"onecentlin.laravel-blade"},"activationEvent":"onLanguage:blade"}
+[2021-05-03 09:50:57.634] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/onecentlin.laravel-blade-1.25.0/out/extension
+[2021-05-03 09:51:12.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-05-03 09:51:12.204] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-05-03 10:17:19.262] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 10:17:19.263] [exthost] [error] TypeError: Cannot read property 'substring' of undefined
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:42:69)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 10:17:26.210] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 10:17:26.211] [exthost] [error] Error: ENOENT: no such file or directory, scandir 'c:\Code\mondelez.gigantesdaexecucao/app/Http/Controllers'
+	at Object.readdirSync (fs.js:959:3)
+	at Object.e.readdirSync (electron/js2c/asar_bundle.js:5:10231)
+	at Object.getFilePath (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\util.js:33:23)
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:30:41)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 10:17:26.711] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 10:17:26.711] [exthost] [error] Error: ENOENT: no such file or directory, scandir 'c:\Code\mondelez.gigantesdaexecucao/app/Http/Controllers'
+	at Object.readdirSync (fs.js:959:3)
+	at Object.e.readdirSync (electron/js2c/asar_bundle.js:5:10231)
+	at Object.getFilePath (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\util.js:33:23)
+	at Object.provideHover (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\extension.js:12:37)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:159870
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at l.provideHover (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:159850)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:182545
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideHover (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:182521)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 10:17:28.463] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 10:17:28.463] [exthost] [error] Error: ENOENT: no such file or directory, scandir 'c:\Code\mondelez.gigantesdaexecucao/app/Http/Controllers'
+	at Object.readdirSync (fs.js:959:3)
+	at Object.e.readdirSync (electron/js2c/asar_bundle.js:5:10231)
+	at Object.getFilePath (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\util.js:33:23)
+	at Object.provideHover (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\extension.js:12:37)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:159870
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at l.provideHover (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:159850)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:182545
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideHover (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:182521)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 10:17:36.347] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 10:17:36.347] [exthost] [error] Error: ENOENT: no such file or directory, scandir 'c:\Code\mondelez.gigantesdaexecucao/app/Http/Controllers'
+	at Object.readdirSync (fs.js:959:3)
+	at Object.e.readdirSync (electron/js2c/asar_bundle.js:5:10231)
+	at Object.getFilePath (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\util.js:33:23)
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:30:41)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 10:17:37.516] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 10:17:37.516] [exthost] [error] Error: ENOENT: no such file or directory, scandir 'c:\Code\mondelez.gigantesdaexecucao/app/Http/Controllers'
+	at Object.readdirSync (fs.js:959:3)
+	at Object.e.readdirSync (electron/js2c/asar_bundle.js:5:10231)
+	at Object.getFilePath (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\util.js:33:23)
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:30:41)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 10:17:38.537] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 10:17:38.538] [exthost] [error] Error: ENOENT: no such file or directory, scandir 'c:\Code\mondelez.gigantesdaexecucao/app/Http/Controllers'
+	at Object.readdirSync (fs.js:959:3)
+	at Object.e.readdirSync (electron/js2c/asar_bundle.js:5:10231)
+	at Object.getFilePath (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\util.js:33:23)
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:30:41)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 10:17:39.264] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 10:17:39.264] [exthost] [error] Error: ENOENT: no such file or directory, scandir 'c:\Code\mondelez.gigantesdaexecucao/app/Http/Controllers'
+	at Object.readdirSync (fs.js:959:3)
+	at Object.e.readdirSync (electron/js2c/asar_bundle.js:5:10231)
+	at Object.getFilePath (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\util.js:33:23)
+	at Object.provideHover (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\extension.js:12:37)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:159870
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at l.provideHover (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:159850)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:182545
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideHover (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:182521)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 10:17:43.539] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 10:17:43.539] [exthost] [error] Error: ENOENT: no such file or directory, scandir 'c:\Code\mondelez.gigantesdaexecucao/app/Http/Controllers'
+	at Object.readdirSync (fs.js:959:3)
+	at Object.e.readdirSync (electron/js2c/asar_bundle.js:5:10231)
+	at Object.getFilePath (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\util.js:33:23)
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:30:41)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 10:17:43.884] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 10:17:43.884] [exthost] [error] Error: ENOENT: no such file or directory, scandir 'c:\Code\mondelez.gigantesdaexecucao/app/Http/Controllers'
+	at Object.readdirSync (fs.js:959:3)
+	at Object.e.readdirSync (electron/js2c/asar_bundle.js:5:10231)
+	at Object.getFilePath (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\util.js:33:23)
+	at Object.provideHover (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\extension.js:12:37)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:159870
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at l.provideHover (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:159850)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:182545
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideHover (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:182521)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 10:17:45.242] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 10:17:45.243] [exthost] [error] Error: ENOENT: no such file or directory, scandir 'c:\Code\mondelez.gigantesdaexecucao/app/Http/Controllers'
+	at Object.readdirSync (fs.js:959:3)
+	at Object.e.readdirSync (electron/js2c/asar_bundle.js:5:10231)
+	at Object.getFilePath (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\util.js:33:23)
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:30:41)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 10:18:09.817] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-03 10:18:09.817] [exthost] [error] TypeError: Cannot read property 'substring' of undefined
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:42:69)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-03 10:24:24.207] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-03 10:24:25.224] [exthost] [info] exiting with code 0

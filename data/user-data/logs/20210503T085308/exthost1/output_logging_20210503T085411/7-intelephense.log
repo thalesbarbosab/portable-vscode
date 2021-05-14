@@ -1,0 +1,8 @@
+[Info  - 8:54:11 AM] Initialising intelephense 1.7.1
+[Info  - 8:54:11 AM] Initialised in 18 ms
+[Info  - 8:54:11 AM] Environment changed. Refreshing 1 in memory documents.
+[Warn  - 8:54:12 AM] file:///c%3A/Code/dreamsfinance/vendor/fzaninotto/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 8:54:12 AM] Indexing started.
+[Info  - 8:55:53 AM] Indexing ended. 6546 files indexed in 100s.
+[Info  - 8:55:53 AM] Writing state to c:\Code\portable-vscode\data\user-data\User\workspaceStorage\80a0c2f4f1c9fd07ebedbbf7f49a9794\bmewburn.vscode-intelephense-client\3c7b5ea6.
+[Info  - 8:55:54 AM] Wrote state in 1.2s.

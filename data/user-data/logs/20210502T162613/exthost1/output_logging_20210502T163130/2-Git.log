@@ -1,0 +1,182 @@
+Looking for git in: C:\Program Files\Git\cmd\git.exe
+Using git 2.29.2.windows.3 from C:\Program Files\Git\cmd\git.exe
+> git rev-parse --git-dir
+Open repository: c:\Code\mondelez.gigantesdaexecucao
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git check-ignore -v -z --stdin
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git show --textconv :app/App/Cms/Http/Controllers/AccessTokenController.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Cms\Http\Controllers\AccessTokenController.php
+> git symbolic-ref --short HEAD
+> git cat-file -s 2401b6f70f795b276cc3e52a21b1a63ee1dc58d9
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/App/Cms/Http/Controllers/CustomerController.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Cms\Http\Controllers\CustomerController.php
+> git cat-file -s 451161ce8b8ba73e541170572adf6f1a86e4e441
+> git show --textconv :app/Domain/Tools/FederativeUnit.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Domain\Tools\FederativeUnit.php
+> git cat-file -s 040b112f4aaa4b78211f57836c8b97151fc2e4af
+> git check-ignore -v -z --stdin
+> git show --textconv :app/App/Cms/Http/Controllers/CustomerController.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Cms\Http\Controllers\CustomerController.php
+> git cat-file -s 451161ce8b8ba73e541170572adf6f1a86e4e441
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git checkout -q -- C:\Code\mondelez.gigantesdaexecucao\app\App\Cms\Http\Controllers\CustomerController.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- c:\Code\mondelez.gigantesdaexecucao\app\App\Cms\Http\Controllers\CustomerController.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Cms\Http\Controllers\CustomerController.php
+> git config --get commit.template
+> git cat-file -s 451161ce8b8ba73e541170572adf6f1a86e4e441
+> git show --textconv :app/App/Cms/Http/Controllers/CustomerController.php
+> git fetch
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Cms\Http\Controllers\CustomerController.php
+> git cat-file -s 451161ce8b8ba73e541170572adf6f1a86e4e441
+> git show --textconv :app/App/Cms/Http/Controllers/CustomerController.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Cms\Http\Controllers\CustomerController.php
+> git config --get commit.template
+> git cat-file -s 451161ce8b8ba73e541170572adf6f1a86e4e441
+> git show --textconv :app/App/Cms/Http/Controllers/CustomerController.php
+> git status -z -u
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Cms\Http\Controllers\CustomerController.php
+> git symbolic-ref --short HEAD
+> git cat-file -s 451161ce8b8ba73e541170572adf6f1a86e4e441
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git show --textconv :app/App/Cms/Http/Controllers/CustomerController.php
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Cms\Http\Controllers\CustomerController.php
+> git cat-file -s 451161ce8b8ba73e541170572adf6f1a86e4e441
+> git show --textconv :app/App/Cms/Http/Controllers/CustomerController.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Infrastructure/Import/JobCustomerImportGoal.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Infrastructure\Import\JobCustomerImportGoal.php
+> git cat-file -s 3d596fa81ab3b71f36809553053cd09e1ae91b2b
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/App/Core/Http/Kernel.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Core\Http\Kernel.php
+> git cat-file -s b0377205dfb535bea0e0b7158f0d32862a8f6313
+> git fetch
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Core\Http\Kernel.php
+> git cat-file -s b0377205dfb535bea0e0b7158f0d32862a8f6313
+> git show --textconv :app/App/Core/Http/Kernel.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Core\Http\Kernel.php
+> git config --get commit.template
+> git cat-file -s b0377205dfb535bea0e0b7158f0d32862a8f6313
+> git show --textconv :app/App/Core/Http/Kernel.php
+> git check-ignore -v -z --stdin
+> git show --textconv :app/App/Core/Providers/AppServiceProvider.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Core\Providers\AppServiceProvider.php
+> git cat-file -s 4446633fd02885323d89085153342d2a7e31d94d
+> git show --textconv :app/App/Core/Providers/AuthServiceProvider.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Core\Providers\AuthServiceProvider.php
+> git cat-file -s bb977a909ef771780212157dcc2de4a72b610088
+> git show --textconv :app/App/Core/Providers/BroadcastServiceProvider.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Core\Providers\BroadcastServiceProvider.php
+> git cat-file -s 907fa9c9e59f30ab802f0e1080c7bbfc1cb4d5ad
+> git show --textconv :app/App/Core/Providers/EventServiceProvider.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Core\Providers\EventServiceProvider.php
+> git cat-file -s 560af36ea09c588e46d5a7951e7fc4fdc0e2fd94
+> git show --textconv :app/App/Core/Providers/RouteServiceProvider.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Core\Providers\RouteServiceProvider.php
+> git cat-file -s 08806503cf2025213f654bc26141664ee0dedcd8
+> git show --textconv :app/App/Core/Providers/AppServiceProvider.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Core\Providers\AppServiceProvider.php
+> git cat-file -s 4446633fd02885323d89085153342d2a7e31d94d
+> git show --textconv :app/App/Core/Providers/AuthServiceProvider.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Core\Providers\AuthServiceProvider.php
+> git cat-file -s bb977a909ef771780212157dcc2de4a72b610088
+> git show --textconv :app/App/Core/Providers/RouteServiceProvider.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Core\Providers\RouteServiceProvider.php
+> git cat-file -s 08806503cf2025213f654bc26141664ee0dedcd8
+> git show --textconv :app/Infrastructure/Import/JobCustomerImportGoal.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Infrastructure\Import\JobCustomerImportGoal.php
+> git cat-file -s 3d596fa81ab3b71f36809553053cd09e1ae91b2b
+> git show --textconv :app/Infrastructure/Import/JobCustomerImportPerformed.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Infrastructure\Import\JobCustomerImportPerformed.php
+> git cat-file -s 9ff9f3fc72397509d2f0bb34038ca0cc4f4c83d0
+> git show --textconv :app/Infrastructure/Import/JobCustomerImportGoal.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Infrastructure\Import\JobCustomerImportGoal.php
+> git cat-file -s 3d596fa81ab3b71f36809553053cd09e1ae91b2b
+> git show --textconv :app/Infrastructure/Import/JobCustomerImportPerformed.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Infrastructure\Import\JobCustomerImportPerformed.php
+> git cat-file -s 9ff9f3fc72397509d2f0bb34038ca0cc4f4c83d0
+> git show --textconv :app/Infrastructure/Import/JobCustomerImportGoal.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Infrastructure\Import\JobCustomerImportGoal.php
+> git cat-file -s 3d596fa81ab3b71f36809553053cd09e1ae91b2b

@@ -1,0 +1,2109 @@
+[2021-05-02 15:58:48.415] [renderer1] [warning] Settings pattern "keyboard.*" doesn't match any settings
+[2021-05-02 15:58:49.510] [renderer1] [warning] Settings pattern "keyboard.*" doesn't match any settings
+[2021-05-02 15:58:51.639] [renderer1] [warning] Settings pattern "keyboard.*" doesn't match any settings
+[2021-05-02 15:59:09.143] [renderer1] [warning] Settings pattern "keyboard.*" doesn't match any settings
+[2021-05-02 16:01:01.688] [renderer1] [warning] Settings pattern "keyboard.*" doesn't match any settings
+[2021-05-02 16:07:11.699] [renderer1] [warning] Settings pattern "keyboard.*" doesn't match any settings
+[2021-05-02 16:15:39.986] [renderer1] [error] PARSE ERROR: Laravel Framework 7.30.4
+
+Usage:
+  command [options] [arguments]
+
+Options:
+  -h, --help            Display help for the given command. When no command is given display help for the list command
+  -q, --quiet           Do not output any message
+  -V, --version         Display this application version
+      --ansi            Force ANSI output
+      --no-ansi         Disable ANSI output
+  -n, --no-interaction  Do not ask any interactive question
+      --env[=ENV]       The environment the command should run under
+  -v|vv|vvv, --verbose  Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
+
+Available commands:
+  clear-compiled       Remove the compiled class file
+  down                 Put the application into maintenance mode
+  env                  Display the current framework environment
+  help                 Display help for a command
+  inspire              Display an inspiring quote
+  list                 List commands
+  migrate              Run the database migrations
+  optimize             Cache the framework bootstrap files
+  serve                Serve the application on the PHP development server
+  test                 Run the application tests
+  tinker               Interact with your application
+  ui                   Swap the front-end scaffolding for the application
+  up                   Bring the application out of maintenance mode
+ adminlte
+  adminlte:install     Install all the required files for AdminLTE, and additional resources
+  adminlte:plugins     Manages the installation and removal of additional AdminLTE plugins
+  adminlte:status      Checks the installation status of the AdminLTE resources
+  adminlte:update      Update all the required assets for AdminLTE
+ apidoc
+  apidoc:generate      Generate your API documentation from existing Laravel routes.
+  apidoc:rebuild       Rebuild your API documentation from your markdown file.
+ auth
+  auth:clear-resets    Flush expired password reset tokens
+ cache
+  cache:clear          Flush the application cache
+  cache:forget         Remove an item from the cache
+  cache:table          Create a migration for the cache database table
+ config
+  config:cache         Create a cache file for faster configuration loading
+  config:clear         Remove the configuration cache file
+ db
+  db:seed              Seed the database with records
+  db:wipe              Drop all tables, views, and types
+ debugbar
+  debugbar:clear       Clear the Debugbar Storage
+ event
+  event:cache          Discover and cache the application's events and listeners
+  event:clear          Clear all cached events and listeners
+  event:generate       Generate the missing events and listeners based on registration
+  event:list           List the application's events and listeners
+ jwt
+  jwt:secret           Set the JWTAuth secret key used to sign the tokens
+ key
+  key:generate         Set the application key
+ make
+  make:cast            Create a new custom Eloquent cast class
+  make:channel         Create a new channel class
+  make:command         Create a new Artisan command
+  make:component       Create a new view component class
+  make:controller      Create a new controller class
+  make:event           Create a new event class
+  make:exception       Create a new custom exception class
+  make:factory         Create a new model factory
+  make:job             Create a new job class
+  make:listener        Create a new event listener class
+  make:mail            Create a new email class
+  make:middleware      Create a new middleware class
+  make:migration       Create a new migration file
+  make:model           Create a new Eloquent model class
+  make:notification    Create a new notification class
+  make:observer        Create a new observer class
+  make:policy          Create a new policy class
+  make:provider        Create a new service provider class
+  make:request         Create a new form request class
+  make:resource        Create a new resource
+  make:rule            Create a new validation rule
+  make:seeder          Create a new seeder class
+  make:test            Create a new test class
+ migrate
+  migrate:fresh        Drop all tables and re-run all migrations
+  migrate:install      Create the migration repository
+  migrate:refresh      Reset and re-run all migrations
+  migrate:reset        Rollback all database migrations
+  migrate:rollback     Rollback the last database migration
+  migrate:status       Show the status of each migration
+ notifications
+  notifications:table  Create a migration for the notifications table
+ optimize
+  optimize:clear       Remove the cached bootstrap files
+ package
+  package:discover     Rebuild the cached package manifest
+ passport
+  passport:client      Create a client for issuing access tokens
+  passport:hash        Hash all of the existing secrets in the clients table
+  passport:install     Run the commands necessary to prepare Passport for use
+  passport:keys        Create the encryption keys for API authentication
+  passport:purge       Purge revoked and / or expired tokens and authentication codes
+ queue
+  queue:failed         List all of the failed queue jobs
+  queue:failed-table   Create a migration for the failed queue jobs database table
+  queue:flush          Flush all of the failed queue jobs
+  queue:forget         Delete a failed queue job
+  queue:listen         Listen to a given queue
+  queue:restart        Restart queue worker daemons after their current job
+  queue:retry          Retry a failed queue job
+  queue:table          Create a migration for the queue jobs database table
+  queue:work           Start processing jobs on the queue as a daemon
+ route
+  route:cache          Create a route cache file for faster route registration
+  route:clear          Remove the route cache file
+  route:list           List all registered routes
+ schedule
+  schedule:run         Run the scheduled commands
+ session
+  session:table        Create a migration for the session database table
+ storage
+  storage:link         Create the symbolic links configured for the application
+ stub
+  stub:publish         Publish all stubs that are available for customization
+ ui
+  ui:auth              Scaffold basic login and registration views and routes
+  ui:controllers       Scaffold the authentication controllers
+ vendor
+  vendor:publish       Publish any publishable assets from vendor packages
+ view
+  view:cache           Compile all of the application's Blade templates
+  view:clear           Clear all compiled view files
+___VSCODE_LARAVEL_EXTRA_INSTELLISENSE_OUTPUT___
+   Symfony\Component\ErrorHandler\Error\FatalError 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+  > 1|
+
+
+   Whoops\Exception\ErrorException 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+
+   Whoops\Exception\ErrorException 
+
+  file_get_contents(Command line code): Failed to open stream: No such file or directory
+
+  at C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+    119|                 return null;
+    120|             }
+    121| 
+    122|             try {
+  > 123|                 $this->fileContentsCache = file_get_contents($filePath);
+    124|             } catch (ErrorException $exception) {
+    125|                 // Internal file paths of PHP extensions cannot be opened
+    126|             }
+    127|         }
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+      file_get_contents()
+
+  2   C:\Code\igreja-de-cristo\vendor\nunomaduro\collision\src\Writer.php:276
+      Whoops\Exception\Frame::getFileContents()
+  > 1|
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Run.php:486
+      Whoops\Run::handleError()
+
+  2   [internal]:0
+      Whoops\Run::handleShutdown()
+
+[2021-05-02 16:16:39.058] [renderer1] [error] PARSE ERROR: Laravel Framework 7.30.4
+
+Usage:
+  command [options] [arguments]
+
+Options:
+  -h, --help            Display help for the given command. When no command is given display help for the list command
+  -q, --quiet           Do not output any message
+  -V, --version         Display this application version
+      --ansi            Force ANSI output
+      --no-ansi         Disable ANSI output
+  -n, --no-interaction  Do not ask any interactive question
+      --env[=ENV]       The environment the command should run under
+  -v|vv|vvv, --verbose  Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
+
+Available commands:
+  clear-compiled       Remove the compiled class file
+  down                 Put the application into maintenance mode
+  env                  Display the current framework environment
+  help                 Display help for a command
+  inspire              Display an inspiring quote
+  list                 List commands
+  migrate              Run the database migrations
+  optimize             Cache the framework bootstrap files
+  serve                Serve the application on the PHP development server
+  test                 Run the application tests
+  tinker               Interact with your application
+  ui                   Swap the front-end scaffolding for the application
+  up                   Bring the application out of maintenance mode
+ adminlte
+  adminlte:install     Install all the required files for AdminLTE, and additional resources
+  adminlte:plugins     Manages the installation and removal of additional AdminLTE plugins
+  adminlte:status      Checks the installation status of the AdminLTE resources
+  adminlte:update      Update all the required assets for AdminLTE
+ apidoc
+  apidoc:generate      Generate your API documentation from existing Laravel routes.
+  apidoc:rebuild       Rebuild your API documentation from your markdown file.
+ auth
+  auth:clear-resets    Flush expired password reset tokens
+ cache
+  cache:clear          Flush the application cache
+  cache:forget         Remove an item from the cache
+  cache:table          Create a migration for the cache database table
+ config
+  config:cache         Create a cache file for faster configuration loading
+  config:clear         Remove the configuration cache file
+ db
+  db:seed              Seed the database with records
+  db:wipe              Drop all tables, views, and types
+ debugbar
+  debugbar:clear       Clear the Debugbar Storage
+ event
+  event:cache          Discover and cache the application's events and listeners
+  event:clear          Clear all cached events and listeners
+  event:generate       Generate the missing events and listeners based on registration
+  event:list           List the application's events and listeners
+ jwt
+  jwt:secret           Set the JWTAuth secret key used to sign the tokens
+ key
+  key:generate         Set the application key
+ make
+  make:cast            Create a new custom Eloquent cast class
+  make:channel         Create a new channel class
+  make:command         Create a new Artisan command
+  make:component       Create a new view component class
+  make:controller      Create a new controller class
+  make:event           Create a new event class
+  make:exception       Create a new custom exception class
+  make:factory         Create a new model factory
+  make:job             Create a new job class
+  make:listener        Create a new event listener class
+  make:mail            Create a new email class
+  make:middleware      Create a new middleware class
+  make:migration       Create a new migration file
+  make:model           Create a new Eloquent model class
+  make:notification    Create a new notification class
+  make:observer        Create a new observer class
+  make:policy          Create a new policy class
+  make:provider        Create a new service provider class
+  make:request         Create a new form request class
+  make:resource        Create a new resource
+  make:rule            Create a new validation rule
+  make:seeder          Create a new seeder class
+  make:test            Create a new test class
+ migrate
+  migrate:fresh        Drop all tables and re-run all migrations
+  migrate:install      Create the migration repository
+  migrate:refresh      Reset and re-run all migrations
+  migrate:reset        Rollback all database migrations
+  migrate:rollback     Rollback the last database migration
+  migrate:status       Show the status of each migration
+ notifications
+  notifications:table  Create a migration for the notifications table
+ optimize
+  optimize:clear       Remove the cached bootstrap files
+ package
+  package:discover     Rebuild the cached package manifest
+ passport
+  passport:client      Create a client for issuing access tokens
+  passport:hash        Hash all of the existing secrets in the clients table
+  passport:install     Run the commands necessary to prepare Passport for use
+  passport:keys        Create the encryption keys for API authentication
+  passport:purge       Purge revoked and / or expired tokens and authentication codes
+ queue
+  queue:failed         List all of the failed queue jobs
+  queue:failed-table   Create a migration for the failed queue jobs database table
+  queue:flush          Flush all of the failed queue jobs
+  queue:forget         Delete a failed queue job
+  queue:listen         Listen to a given queue
+  queue:restart        Restart queue worker daemons after their current job
+  queue:retry          Retry a failed queue job
+  queue:table          Create a migration for the queue jobs database table
+  queue:work           Start processing jobs on the queue as a daemon
+ route
+  route:cache          Create a route cache file for faster route registration
+  route:clear          Remove the route cache file
+  route:list           List all registered routes
+ schedule
+  schedule:run         Run the scheduled commands
+ session
+  session:table        Create a migration for the session database table
+ storage
+  storage:link         Create the symbolic links configured for the application
+ stub
+  stub:publish         Publish all stubs that are available for customization
+ ui
+  ui:auth              Scaffold basic login and registration views and routes
+  ui:controllers       Scaffold the authentication controllers
+ vendor
+  vendor:publish       Publish any publishable assets from vendor packages
+ view
+  view:cache           Compile all of the application's Blade templates
+  view:clear           Clear all compiled view files
+___VSCODE_LARAVEL_EXTRA_INSTELLISENSE_OUTPUT___
+   Symfony\Component\ErrorHandler\Error\FatalError 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+  > 1|
+
+
+   Whoops\Exception\ErrorException 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+
+   Whoops\Exception\ErrorException 
+
+  file_get_contents(Command line code): Failed to open stream: No such file or directory
+
+  at C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+    119|                 return null;
+    120|             }
+    121| 
+    122|             try {
+  > 123|                 $this->fileContentsCache = file_get_contents($filePath);
+    124|             } catch (ErrorException $exception) {
+    125|                 // Internal file paths of PHP extensions cannot be opened
+    126|             }
+    127|         }
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+      file_get_contents()
+
+  2   C:\Code\igreja-de-cristo\vendor\nunomaduro\collision\src\Writer.php:276
+      Whoops\Exception\Frame::getFileContents()
+  > 1|
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Run.php:486
+      Whoops\Run::handleError()
+
+  2   [internal]:0
+      Whoops\Run::handleShutdown()
+
+[2021-05-02 16:17:03.431] [renderer1] [error] PARSE ERROR: Laravel Framework 7.30.4
+
+Usage:
+  command [options] [arguments]
+
+Options:
+  -h, --help            Display help for the given command. When no command is given display help for the list command
+  -q, --quiet           Do not output any message
+  -V, --version         Display this application version
+      --ansi            Force ANSI output
+      --no-ansi         Disable ANSI output
+  -n, --no-interaction  Do not ask any interactive question
+      --env[=ENV]       The environment the command should run under
+  -v|vv|vvv, --verbose  Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
+
+Available commands:
+  clear-compiled       Remove the compiled class file
+  down                 Put the application into maintenance mode
+  env                  Display the current framework environment
+  help                 Display help for a command
+  inspire              Display an inspiring quote
+  list                 List commands
+  migrate              Run the database migrations
+  optimize             Cache the framework bootstrap files
+  serve                Serve the application on the PHP development server
+  test                 Run the application tests
+  tinker               Interact with your application
+  ui                   Swap the front-end scaffolding for the application
+  up                   Bring the application out of maintenance mode
+ adminlte
+  adminlte:install     Install all the required files for AdminLTE, and additional resources
+  adminlte:plugins     Manages the installation and removal of additional AdminLTE plugins
+  adminlte:status      Checks the installation status of the AdminLTE resources
+  adminlte:update      Update all the required assets for AdminLTE
+ apidoc
+  apidoc:generate      Generate your API documentation from existing Laravel routes.
+  apidoc:rebuild       Rebuild your API documentation from your markdown file.
+ auth
+  auth:clear-resets    Flush expired password reset tokens
+ cache
+  cache:clear          Flush the application cache
+  cache:forget         Remove an item from the cache
+  cache:table          Create a migration for the cache database table
+ config
+  config:cache         Create a cache file for faster configuration loading
+  config:clear         Remove the configuration cache file
+ db
+  db:seed              Seed the database with records
+  db:wipe              Drop all tables, views, and types
+ debugbar
+  debugbar:clear       Clear the Debugbar Storage
+ event
+  event:cache          Discover and cache the application's events and listeners
+  event:clear          Clear all cached events and listeners
+  event:generate       Generate the missing events and listeners based on registration
+  event:list           List the application's events and listeners
+ jwt
+  jwt:secret           Set the JWTAuth secret key used to sign the tokens
+ key
+  key:generate         Set the application key
+ make
+  make:cast            Create a new custom Eloquent cast class
+  make:channel         Create a new channel class
+  make:command         Create a new Artisan command
+  make:component       Create a new view component class
+  make:controller      Create a new controller class
+  make:event           Create a new event class
+  make:exception       Create a new custom exception class
+  make:factory         Create a new model factory
+  make:job             Create a new job class
+  make:listener        Create a new event listener class
+  make:mail            Create a new email class
+  make:middleware      Create a new middleware class
+  make:migration       Create a new migration file
+  make:model           Create a new Eloquent model class
+  make:notification    Create a new notification class
+  make:observer        Create a new observer class
+  make:policy          Create a new policy class
+  make:provider        Create a new service provider class
+  make:request         Create a new form request class
+  make:resource        Create a new resource
+  make:rule            Create a new validation rule
+  make:seeder          Create a new seeder class
+  make:test            Create a new test class
+ migrate
+  migrate:fresh        Drop all tables and re-run all migrations
+  migrate:install      Create the migration repository
+  migrate:refresh      Reset and re-run all migrations
+  migrate:reset        Rollback all database migrations
+  migrate:rollback     Rollback the last database migration
+  migrate:status       Show the status of each migration
+ notifications
+  notifications:table  Create a migration for the notifications table
+ optimize
+  optimize:clear       Remove the cached bootstrap files
+ package
+  package:discover     Rebuild the cached package manifest
+ passport
+  passport:client      Create a client for issuing access tokens
+  passport:hash        Hash all of the existing secrets in the clients table
+  passport:install     Run the commands necessary to prepare Passport for use
+  passport:keys        Create the encryption keys for API authentication
+  passport:purge       Purge revoked and / or expired tokens and authentication codes
+ queue
+  queue:failed         List all of the failed queue jobs
+  queue:failed-table   Create a migration for the failed queue jobs database table
+  queue:flush          Flush all of the failed queue jobs
+  queue:forget         Delete a failed queue job
+  queue:listen         Listen to a given queue
+  queue:restart        Restart queue worker daemons after their current job
+  queue:retry          Retry a failed queue job
+  queue:table          Create a migration for the queue jobs database table
+  queue:work           Start processing jobs on the queue as a daemon
+ route
+  route:cache          Create a route cache file for faster route registration
+  route:clear          Remove the route cache file
+  route:list           List all registered routes
+ schedule
+  schedule:run         Run the scheduled commands
+ session
+  session:table        Create a migration for the session database table
+ storage
+  storage:link         Create the symbolic links configured for the application
+ stub
+  stub:publish         Publish all stubs that are available for customization
+ ui
+  ui:auth              Scaffold basic login and registration views and routes
+  ui:controllers       Scaffold the authentication controllers
+ vendor
+  vendor:publish       Publish any publishable assets from vendor packages
+ view
+  view:cache           Compile all of the application's Blade templates
+  view:clear           Clear all compiled view files
+___VSCODE_LARAVEL_EXTRA_INSTELLISENSE_OUTPUT___
+   Symfony\Component\ErrorHandler\Error\FatalError 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+  > 1|
+
+
+   Whoops\Exception\ErrorException 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+
+   Whoops\Exception\ErrorException 
+
+  file_get_contents(Command line code): Failed to open stream: No such file or directory
+
+  at C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+    119|                 return null;
+    120|             }
+    121| 
+    122|             try {
+  > 123|                 $this->fileContentsCache = file_get_contents($filePath);
+    124|             } catch (ErrorException $exception) {
+    125|                 // Internal file paths of PHP extensions cannot be opened
+    126|             }
+    127|         }
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+      file_get_contents()
+
+  2   C:\Code\igreja-de-cristo\vendor\nunomaduro\collision\src\Writer.php:276
+      Whoops\Exception\Frame::getFileContents()
+  > 1|
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Run.php:486
+      Whoops\Run::handleError()
+
+  2   [internal]:0
+      Whoops\Run::handleShutdown()
+
+[2021-05-02 16:17:15.901] [renderer1] [error] PARSE ERROR: Laravel Framework 7.30.4
+
+Usage:
+  command [options] [arguments]
+
+Options:
+  -h, --help            Display help for the given command. When no command is given display help for the list command
+  -q, --quiet           Do not output any message
+  -V, --version         Display this application version
+      --ansi            Force ANSI output
+      --no-ansi         Disable ANSI output
+  -n, --no-interaction  Do not ask any interactive question
+      --env[=ENV]       The environment the command should run under
+  -v|vv|vvv, --verbose  Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
+
+Available commands:
+  clear-compiled       Remove the compiled class file
+  down                 Put the application into maintenance mode
+  env                  Display the current framework environment
+  help                 Display help for a command
+  inspire              Display an inspiring quote
+  list                 List commands
+  migrate              Run the database migrations
+  optimize             Cache the framework bootstrap files
+  serve                Serve the application on the PHP development server
+  test                 Run the application tests
+  tinker               Interact with your application
+  ui                   Swap the front-end scaffolding for the application
+  up                   Bring the application out of maintenance mode
+ adminlte
+  adminlte:install     Install all the required files for AdminLTE, and additional resources
+  adminlte:plugins     Manages the installation and removal of additional AdminLTE plugins
+  adminlte:status      Checks the installation status of the AdminLTE resources
+  adminlte:update      Update all the required assets for AdminLTE
+ apidoc
+  apidoc:generate      Generate your API documentation from existing Laravel routes.
+  apidoc:rebuild       Rebuild your API documentation from your markdown file.
+ auth
+  auth:clear-resets    Flush expired password reset tokens
+ cache
+  cache:clear          Flush the application cache
+  cache:forget         Remove an item from the cache
+  cache:table          Create a migration for the cache database table
+ config
+  config:cache         Create a cache file for faster configuration loading
+  config:clear         Remove the configuration cache file
+ db
+  db:seed              Seed the database with records
+  db:wipe              Drop all tables, views, and types
+ debugbar
+  debugbar:clear       Clear the Debugbar Storage
+ event
+  event:cache          Discover and cache the application's events and listeners
+  event:clear          Clear all cached events and listeners
+  event:generate       Generate the missing events and listeners based on registration
+  event:list           List the application's events and listeners
+ jwt
+  jwt:secret           Set the JWTAuth secret key used to sign the tokens
+ key
+  key:generate         Set the application key
+ make
+  make:cast            Create a new custom Eloquent cast class
+  make:channel         Create a new channel class
+  make:command         Create a new Artisan command
+  make:component       Create a new view component class
+  make:controller      Create a new controller class
+  make:event           Create a new event class
+  make:exception       Create a new custom exception class
+  make:factory         Create a new model factory
+  make:job             Create a new job class
+  make:listener        Create a new event listener class
+  make:mail            Create a new email class
+  make:middleware      Create a new middleware class
+  make:migration       Create a new migration file
+  make:model           Create a new Eloquent model class
+  make:notification    Create a new notification class
+  make:observer        Create a new observer class
+  make:policy          Create a new policy class
+  make:provider        Create a new service provider class
+  make:request         Create a new form request class
+  make:resource        Create a new resource
+  make:rule            Create a new validation rule
+  make:seeder          Create a new seeder class
+  make:test            Create a new test class
+ migrate
+  migrate:fresh        Drop all tables and re-run all migrations
+  migrate:install      Create the migration repository
+  migrate:refresh      Reset and re-run all migrations
+  migrate:reset        Rollback all database migrations
+  migrate:rollback     Rollback the last database migration
+  migrate:status       Show the status of each migration
+ notifications
+  notifications:table  Create a migration for the notifications table
+ optimize
+  optimize:clear       Remove the cached bootstrap files
+ package
+  package:discover     Rebuild the cached package manifest
+ passport
+  passport:client      Create a client for issuing access tokens
+  passport:hash        Hash all of the existing secrets in the clients table
+  passport:install     Run the commands necessary to prepare Passport for use
+  passport:keys        Create the encryption keys for API authentication
+  passport:purge       Purge revoked and / or expired tokens and authentication codes
+ queue
+  queue:failed         List all of the failed queue jobs
+  queue:failed-table   Create a migration for the failed queue jobs database table
+  queue:flush          Flush all of the failed queue jobs
+  queue:forget         Delete a failed queue job
+  queue:listen         Listen to a given queue
+  queue:restart        Restart queue worker daemons after their current job
+  queue:retry          Retry a failed queue job
+  queue:table          Create a migration for the queue jobs database table
+  queue:work           Start processing jobs on the queue as a daemon
+ route
+  route:cache          Create a route cache file for faster route registration
+  route:clear          Remove the route cache file
+  route:list           List all registered routes
+ schedule
+  schedule:run         Run the scheduled commands
+ session
+  session:table        Create a migration for the session database table
+ storage
+  storage:link         Create the symbolic links configured for the application
+ stub
+  stub:publish         Publish all stubs that are available for customization
+ ui
+  ui:auth              Scaffold basic login and registration views and routes
+  ui:controllers       Scaffold the authentication controllers
+ vendor
+  vendor:publish       Publish any publishable assets from vendor packages
+ view
+  view:cache           Compile all of the application's Blade templates
+  view:clear           Clear all compiled view files
+___VSCODE_LARAVEL_EXTRA_INSTELLISENSE_OUTPUT___
+   Symfony\Component\ErrorHandler\Error\FatalError 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+  > 1|
+
+
+   Whoops\Exception\ErrorException 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+
+   Whoops\Exception\ErrorException 
+
+  file_get_contents(Command line code): Failed to open stream: No such file or directory
+
+  at C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+    119|                 return null;
+    120|             }
+    121| 
+    122|             try {
+  > 123|                 $this->fileContentsCache = file_get_contents($filePath);
+    124|             } catch (ErrorException $exception) {
+    125|                 // Internal file paths of PHP extensions cannot be opened
+    126|             }
+    127|         }
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+      file_get_contents()
+
+  2   C:\Code\igreja-de-cristo\vendor\nunomaduro\collision\src\Writer.php:276
+      Whoops\Exception\Frame::getFileContents()
+  > 1|
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Run.php:486
+      Whoops\Run::handleError()
+
+  2   [internal]:0
+      Whoops\Run::handleShutdown()
+
+[2021-05-02 16:17:24.350] [renderer1] [error] PARSE ERROR: Laravel Framework 7.30.4
+
+Usage:
+  command [options] [arguments]
+
+Options:
+  -h, --help            Display help for the given command. When no command is given display help for the list command
+  -q, --quiet           Do not output any message
+  -V, --version         Display this application version
+      --ansi            Force ANSI output
+      --no-ansi         Disable ANSI output
+  -n, --no-interaction  Do not ask any interactive question
+      --env[=ENV]       The environment the command should run under
+  -v|vv|vvv, --verbose  Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
+
+Available commands:
+  clear-compiled       Remove the compiled class file
+  down                 Put the application into maintenance mode
+  env                  Display the current framework environment
+  help                 Display help for a command
+  inspire              Display an inspiring quote
+  list                 List commands
+  migrate              Run the database migrations
+  optimize             Cache the framework bootstrap files
+  serve                Serve the application on the PHP development server
+  test                 Run the application tests
+  tinker               Interact with your application
+  ui                   Swap the front-end scaffolding for the application
+  up                   Bring the application out of maintenance mode
+ adminlte
+  adminlte:install     Install all the required files for AdminLTE, and additional resources
+  adminlte:plugins     Manages the installation and removal of additional AdminLTE plugins
+  adminlte:status      Checks the installation status of the AdminLTE resources
+  adminlte:update      Update all the required assets for AdminLTE
+ apidoc
+  apidoc:generate      Generate your API documentation from existing Laravel routes.
+  apidoc:rebuild       Rebuild your API documentation from your markdown file.
+ auth
+  auth:clear-resets    Flush expired password reset tokens
+ cache
+  cache:clear          Flush the application cache
+  cache:forget         Remove an item from the cache
+  cache:table          Create a migration for the cache database table
+ config
+  config:cache         Create a cache file for faster configuration loading
+  config:clear         Remove the configuration cache file
+ db
+  db:seed              Seed the database with records
+  db:wipe              Drop all tables, views, and types
+ debugbar
+  debugbar:clear       Clear the Debugbar Storage
+ event
+  event:cache          Discover and cache the application's events and listeners
+  event:clear          Clear all cached events and listeners
+  event:generate       Generate the missing events and listeners based on registration
+  event:list           List the application's events and listeners
+ jwt
+  jwt:secret           Set the JWTAuth secret key used to sign the tokens
+ key
+  key:generate         Set the application key
+ make
+  make:cast            Create a new custom Eloquent cast class
+  make:channel         Create a new channel class
+  make:command         Create a new Artisan command
+  make:component       Create a new view component class
+  make:controller      Create a new controller class
+  make:event           Create a new event class
+  make:exception       Create a new custom exception class
+  make:factory         Create a new model factory
+  make:job             Create a new job class
+  make:listener        Create a new event listener class
+  make:mail            Create a new email class
+  make:middleware      Create a new middleware class
+  make:migration       Create a new migration file
+  make:model           Create a new Eloquent model class
+  make:notification    Create a new notification class
+  make:observer        Create a new observer class
+  make:policy          Create a new policy class
+  make:provider        Create a new service provider class
+  make:request         Create a new form request class
+  make:resource        Create a new resource
+  make:rule            Create a new validation rule
+  make:seeder          Create a new seeder class
+  make:test            Create a new test class
+ migrate
+  migrate:fresh        Drop all tables and re-run all migrations
+  migrate:install      Create the migration repository
+  migrate:refresh      Reset and re-run all migrations
+  migrate:reset        Rollback all database migrations
+  migrate:rollback     Rollback the last database migration
+  migrate:status       Show the status of each migration
+ notifications
+  notifications:table  Create a migration for the notifications table
+ optimize
+  optimize:clear       Remove the cached bootstrap files
+ package
+  package:discover     Rebuild the cached package manifest
+ passport
+  passport:client      Create a client for issuing access tokens
+  passport:hash        Hash all of the existing secrets in the clients table
+  passport:install     Run the commands necessary to prepare Passport for use
+  passport:keys        Create the encryption keys for API authentication
+  passport:purge       Purge revoked and / or expired tokens and authentication codes
+ queue
+  queue:failed         List all of the failed queue jobs
+  queue:failed-table   Create a migration for the failed queue jobs database table
+  queue:flush          Flush all of the failed queue jobs
+  queue:forget         Delete a failed queue job
+  queue:listen         Listen to a given queue
+  queue:restart        Restart queue worker daemons after their current job
+  queue:retry          Retry a failed queue job
+  queue:table          Create a migration for the queue jobs database table
+  queue:work           Start processing jobs on the queue as a daemon
+ route
+  route:cache          Create a route cache file for faster route registration
+  route:clear          Remove the route cache file
+  route:list           List all registered routes
+ schedule
+  schedule:run         Run the scheduled commands
+ session
+  session:table        Create a migration for the session database table
+ storage
+  storage:link         Create the symbolic links configured for the application
+ stub
+  stub:publish         Publish all stubs that are available for customization
+ ui
+  ui:auth              Scaffold basic login and registration views and routes
+  ui:controllers       Scaffold the authentication controllers
+ vendor
+  vendor:publish       Publish any publishable assets from vendor packages
+ view
+  view:cache           Compile all of the application's Blade templates
+  view:clear           Clear all compiled view files
+___VSCODE_LARAVEL_EXTRA_INSTELLISENSE_OUTPUT___
+   Symfony\Component\ErrorHandler\Error\FatalError 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+  > 1|
+
+
+   Whoops\Exception\ErrorException 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+
+   Whoops\Exception\ErrorException 
+
+  file_get_contents(Command line code): Failed to open stream: No such file or directory
+
+  at C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+    119|                 return null;
+    120|             }
+    121| 
+    122|             try {
+  > 123|                 $this->fileContentsCache = file_get_contents($filePath);
+    124|             } catch (ErrorException $exception) {
+    125|                 // Internal file paths of PHP extensions cannot be opened
+    126|             }
+    127|         }
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+      file_get_contents()
+
+  2   C:\Code\igreja-de-cristo\vendor\nunomaduro\collision\src\Writer.php:276
+      Whoops\Exception\Frame::getFileContents()
+  > 1|
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Run.php:486
+      Whoops\Run::handleError()
+
+  2   [internal]:0
+      Whoops\Run::handleShutdown()
+
+[2021-05-02 16:18:18.057] [renderer1] [error] PARSE ERROR: Laravel Framework 7.30.4
+
+Usage:
+  command [options] [arguments]
+
+Options:
+  -h, --help            Display help for the given command. When no command is given display help for the list command
+  -q, --quiet           Do not output any message
+  -V, --version         Display this application version
+      --ansi            Force ANSI output
+      --no-ansi         Disable ANSI output
+  -n, --no-interaction  Do not ask any interactive question
+      --env[=ENV]       The environment the command should run under
+  -v|vv|vvv, --verbose  Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
+
+Available commands:
+  clear-compiled       Remove the compiled class file
+  down                 Put the application into maintenance mode
+  env                  Display the current framework environment
+  help                 Display help for a command
+  inspire              Display an inspiring quote
+  list                 List commands
+  migrate              Run the database migrations
+  optimize             Cache the framework bootstrap files
+  serve                Serve the application on the PHP development server
+  test                 Run the application tests
+  tinker               Interact with your application
+  ui                   Swap the front-end scaffolding for the application
+  up                   Bring the application out of maintenance mode
+ adminlte
+  adminlte:install     Install all the required files for AdminLTE, and additional resources
+  adminlte:plugins     Manages the installation and removal of additional AdminLTE plugins
+  adminlte:status      Checks the installation status of the AdminLTE resources
+  adminlte:update      Update all the required assets for AdminLTE
+ apidoc
+  apidoc:generate      Generate your API documentation from existing Laravel routes.
+  apidoc:rebuild       Rebuild your API documentation from your markdown file.
+ auth
+  auth:clear-resets    Flush expired password reset tokens
+ cache
+  cache:clear          Flush the application cache
+  cache:forget         Remove an item from the cache
+  cache:table          Create a migration for the cache database table
+ config
+  config:cache         Create a cache file for faster configuration loading
+  config:clear         Remove the configuration cache file
+ db
+  db:seed              Seed the database with records
+  db:wipe              Drop all tables, views, and types
+ debugbar
+  debugbar:clear       Clear the Debugbar Storage
+ event
+  event:cache          Discover and cache the application's events and listeners
+  event:clear          Clear all cached events and listeners
+  event:generate       Generate the missing events and listeners based on registration
+  event:list           List the application's events and listeners
+ jwt
+  jwt:secret           Set the JWTAuth secret key used to sign the tokens
+ key
+  key:generate         Set the application key
+ make
+  make:cast            Create a new custom Eloquent cast class
+  make:channel         Create a new channel class
+  make:command         Create a new Artisan command
+  make:component       Create a new view component class
+  make:controller      Create a new controller class
+  make:event           Create a new event class
+  make:exception       Create a new custom exception class
+  make:factory         Create a new model factory
+  make:job             Create a new job class
+  make:listener        Create a new event listener class
+  make:mail            Create a new email class
+  make:middleware      Create a new middleware class
+  make:migration       Create a new migration file
+  make:model           Create a new Eloquent model class
+  make:notification    Create a new notification class
+  make:observer        Create a new observer class
+  make:policy          Create a new policy class
+  make:provider        Create a new service provider class
+  make:request         Create a new form request class
+  make:resource        Create a new resource
+  make:rule            Create a new validation rule
+  make:seeder          Create a new seeder class
+  make:test            Create a new test class
+ migrate
+  migrate:fresh        Drop all tables and re-run all migrations
+  migrate:install      Create the migration repository
+  migrate:refresh      Reset and re-run all migrations
+  migrate:reset        Rollback all database migrations
+  migrate:rollback     Rollback the last database migration
+  migrate:status       Show the status of each migration
+ notifications
+  notifications:table  Create a migration for the notifications table
+ optimize
+  optimize:clear       Remove the cached bootstrap files
+ package
+  package:discover     Rebuild the cached package manifest
+ passport
+  passport:client      Create a client for issuing access tokens
+  passport:hash        Hash all of the existing secrets in the clients table
+  passport:install     Run the commands necessary to prepare Passport for use
+  passport:keys        Create the encryption keys for API authentication
+  passport:purge       Purge revoked and / or expired tokens and authentication codes
+ queue
+  queue:failed         List all of the failed queue jobs
+  queue:failed-table   Create a migration for the failed queue jobs database table
+  queue:flush          Flush all of the failed queue jobs
+  queue:forget         Delete a failed queue job
+  queue:listen         Listen to a given queue
+  queue:restart        Restart queue worker daemons after their current job
+  queue:retry          Retry a failed queue job
+  queue:table          Create a migration for the queue jobs database table
+  queue:work           Start processing jobs on the queue as a daemon
+ route
+  route:cache          Create a route cache file for faster route registration
+  route:clear          Remove the route cache file
+  route:list           List all registered routes
+ schedule
+  schedule:run         Run the scheduled commands
+ session
+  session:table        Create a migration for the session database table
+ storage
+  storage:link         Create the symbolic links configured for the application
+ stub
+  stub:publish         Publish all stubs that are available for customization
+ ui
+  ui:auth              Scaffold basic login and registration views and routes
+  ui:controllers       Scaffold the authentication controllers
+ vendor
+  vendor:publish       Publish any publishable assets from vendor packages
+ view
+  view:cache           Compile all of the application's Blade templates
+  view:clear           Clear all compiled view files
+___VSCODE_LARAVEL_EXTRA_INSTELLISENSE_OUTPUT___
+   Symfony\Component\ErrorHandler\Error\FatalError 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+  > 1|
+
+
+   Whoops\Exception\ErrorException 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+
+   Whoops\Exception\ErrorException 
+
+  file_get_contents(Command line code): Failed to open stream: No such file or directory
+
+  at C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+    119|                 return null;
+    120|             }
+    121| 
+    122|             try {
+  > 123|                 $this->fileContentsCache = file_get_contents($filePath);
+    124|             } catch (ErrorException $exception) {
+    125|                 // Internal file paths of PHP extensions cannot be opened
+    126|             }
+    127|         }
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+      file_get_contents()
+
+  2   C:\Code\igreja-de-cristo\vendor\nunomaduro\collision\src\Writer.php:276
+      Whoops\Exception\Frame::getFileContents()
+  > 1|
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Run.php:486
+      Whoops\Run::handleError()
+
+  2   [internal]:0
+      Whoops\Run::handleShutdown()
+
+[2021-05-02 16:18:52.199] [renderer1] [error] Cannot read property 'substring' of undefined: TypeError: Cannot read property 'substring' of undefined
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:42:69)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-02 16:19:17.545] [renderer1] [error] PARSE ERROR: Laravel Framework 7.30.4
+
+Usage:
+  command [options] [arguments]
+
+Options:
+  -h, --help            Display help for the given command. When no command is given display help for the list command
+  -q, --quiet           Do not output any message
+  -V, --version         Display this application version
+      --ansi            Force ANSI output
+      --no-ansi         Disable ANSI output
+  -n, --no-interaction  Do not ask any interactive question
+      --env[=ENV]       The environment the command should run under
+  -v|vv|vvv, --verbose  Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
+
+Available commands:
+  clear-compiled       Remove the compiled class file
+  down                 Put the application into maintenance mode
+  env                  Display the current framework environment
+  help                 Display help for a command
+  inspire              Display an inspiring quote
+  list                 List commands
+  migrate              Run the database migrations
+  optimize             Cache the framework bootstrap files
+  serve                Serve the application on the PHP development server
+  test                 Run the application tests
+  tinker               Interact with your application
+  ui                   Swap the front-end scaffolding for the application
+  up                   Bring the application out of maintenance mode
+ adminlte
+  adminlte:install     Install all the required files for AdminLTE, and additional resources
+  adminlte:plugins     Manages the installation and removal of additional AdminLTE plugins
+  adminlte:status      Checks the installation status of the AdminLTE resources
+  adminlte:update      Update all the required assets for AdminLTE
+ apidoc
+  apidoc:generate      Generate your API documentation from existing Laravel routes.
+  apidoc:rebuild       Rebuild your API documentation from your markdown file.
+ auth
+  auth:clear-resets    Flush expired password reset tokens
+ cache
+  cache:clear          Flush the application cache
+  cache:forget         Remove an item from the cache
+  cache:table          Create a migration for the cache database table
+ config
+  config:cache         Create a cache file for faster configuration loading
+  config:clear         Remove the configuration cache file
+ db
+  db:seed              Seed the database with records
+  db:wipe              Drop all tables, views, and types
+ debugbar
+  debugbar:clear       Clear the Debugbar Storage
+ event
+  event:cache          Discover and cache the application's events and listeners
+  event:clear          Clear all cached events and listeners
+  event:generate       Generate the missing events and listeners based on registration
+  event:list           List the application's events and listeners
+ jwt
+  jwt:secret           Set the JWTAuth secret key used to sign the tokens
+ key
+  key:generate         Set the application key
+ make
+  make:cast            Create a new custom Eloquent cast class
+  make:channel         Create a new channel class
+  make:command         Create a new Artisan command
+  make:component       Create a new view component class
+  make:controller      Create a new controller class
+  make:event           Create a new event class
+  make:exception       Create a new custom exception class
+  make:factory         Create a new model factory
+  make:job             Create a new job class
+  make:listener        Create a new event listener class
+  make:mail            Create a new email class
+  make:middleware      Create a new middleware class
+  make:migration       Create a new migration file
+  make:model           Create a new Eloquent model class
+  make:notification    Create a new notification class
+  make:observer        Create a new observer class
+  make:policy          Create a new policy class
+  make:provider        Create a new service provider class
+  make:request         Create a new form request class
+  make:resource        Create a new resource
+  make:rule            Create a new validation rule
+  make:seeder          Create a new seeder class
+  make:test            Create a new test class
+ migrate
+  migrate:fresh        Drop all tables and re-run all migrations
+  migrate:install      Create the migration repository
+  migrate:refresh      Reset and re-run all migrations
+  migrate:reset        Rollback all database migrations
+  migrate:rollback     Rollback the last database migration
+  migrate:status       Show the status of each migration
+ notifications
+  notifications:table  Create a migration for the notifications table
+ optimize
+  optimize:clear       Remove the cached bootstrap files
+ package
+  package:discover     Rebuild the cached package manifest
+ passport
+  passport:client      Create a client for issuing access tokens
+  passport:hash        Hash all of the existing secrets in the clients table
+  passport:install     Run the commands necessary to prepare Passport for use
+  passport:keys        Create the encryption keys for API authentication
+  passport:purge       Purge revoked and / or expired tokens and authentication codes
+ queue
+  queue:failed         List all of the failed queue jobs
+  queue:failed-table   Create a migration for the failed queue jobs database table
+  queue:flush          Flush all of the failed queue jobs
+  queue:forget         Delete a failed queue job
+  queue:listen         Listen to a given queue
+  queue:restart        Restart queue worker daemons after their current job
+  queue:retry          Retry a failed queue job
+  queue:table          Create a migration for the queue jobs database table
+  queue:work           Start processing jobs on the queue as a daemon
+ route
+  route:cache          Create a route cache file for faster route registration
+  route:clear          Remove the route cache file
+  route:list           List all registered routes
+ schedule
+  schedule:run         Run the scheduled commands
+ session
+  session:table        Create a migration for the session database table
+ storage
+  storage:link         Create the symbolic links configured for the application
+ stub
+  stub:publish         Publish all stubs that are available for customization
+ ui
+  ui:auth              Scaffold basic login and registration views and routes
+  ui:controllers       Scaffold the authentication controllers
+ vendor
+  vendor:publish       Publish any publishable assets from vendor packages
+ view
+  view:cache           Compile all of the application's Blade templates
+  view:clear           Clear all compiled view files
+___VSCODE_LARAVEL_EXTRA_INSTELLISENSE_OUTPUT___
+   Symfony\Component\ErrorHandler\Error\FatalError 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+  > 1|
+
+
+   Whoops\Exception\ErrorException 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+
+   Whoops\Exception\ErrorException 
+
+  file_get_contents(Command line code): Failed to open stream: No such file or directory
+
+  at C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+    119|                 return null;
+    120|             }
+    121| 
+    122|             try {
+  > 123|                 $this->fileContentsCache = file_get_contents($filePath);
+    124|             } catch (ErrorException $exception) {
+    125|                 // Internal file paths of PHP extensions cannot be opened
+    126|             }
+    127|         }
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+      file_get_contents()
+
+  2   C:\Code\igreja-de-cristo\vendor\nunomaduro\collision\src\Writer.php:276
+      Whoops\Exception\Frame::getFileContents()
+  > 1|
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Run.php:486
+      Whoops\Run::handleError()
+
+  2   [internal]:0
+      Whoops\Run::handleShutdown()
+
+[2021-05-02 16:20:16.222] [renderer1] [error] PARSE ERROR: Laravel Framework 7.30.4
+
+Usage:
+  command [options] [arguments]
+
+Options:
+  -h, --help            Display help for the given command. When no command is given display help for the list command
+  -q, --quiet           Do not output any message
+  -V, --version         Display this application version
+      --ansi            Force ANSI output
+      --no-ansi         Disable ANSI output
+  -n, --no-interaction  Do not ask any interactive question
+      --env[=ENV]       The environment the command should run under
+  -v|vv|vvv, --verbose  Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
+
+Available commands:
+  clear-compiled       Remove the compiled class file
+  down                 Put the application into maintenance mode
+  env                  Display the current framework environment
+  help                 Display help for a command
+  inspire              Display an inspiring quote
+  list                 List commands
+  migrate              Run the database migrations
+  optimize             Cache the framework bootstrap files
+  serve                Serve the application on the PHP development server
+  test                 Run the application tests
+  tinker               Interact with your application
+  ui                   Swap the front-end scaffolding for the application
+  up                   Bring the application out of maintenance mode
+ adminlte
+  adminlte:install     Install all the required files for AdminLTE, and additional resources
+  adminlte:plugins     Manages the installation and removal of additional AdminLTE plugins
+  adminlte:status      Checks the installation status of the AdminLTE resources
+  adminlte:update      Update all the required assets for AdminLTE
+ apidoc
+  apidoc:generate      Generate your API documentation from existing Laravel routes.
+  apidoc:rebuild       Rebuild your API documentation from your markdown file.
+ auth
+  auth:clear-resets    Flush expired password reset tokens
+ cache
+  cache:clear          Flush the application cache
+  cache:forget         Remove an item from the cache
+  cache:table          Create a migration for the cache database table
+ config
+  config:cache         Create a cache file for faster configuration loading
+  config:clear         Remove the configuration cache file
+ db
+  db:seed              Seed the database with records
+  db:wipe              Drop all tables, views, and types
+ debugbar
+  debugbar:clear       Clear the Debugbar Storage
+ event
+  event:cache          Discover and cache the application's events and listeners
+  event:clear          Clear all cached events and listeners
+  event:generate       Generate the missing events and listeners based on registration
+  event:list           List the application's events and listeners
+ jwt
+  jwt:secret           Set the JWTAuth secret key used to sign the tokens
+ key
+  key:generate         Set the application key
+ make
+  make:cast            Create a new custom Eloquent cast class
+  make:channel         Create a new channel class
+  make:command         Create a new Artisan command
+  make:component       Create a new view component class
+  make:controller      Create a new controller class
+  make:event           Create a new event class
+  make:exception       Create a new custom exception class
+  make:factory         Create a new model factory
+  make:job             Create a new job class
+  make:listener        Create a new event listener class
+  make:mail            Create a new email class
+  make:middleware      Create a new middleware class
+  make:migration       Create a new migration file
+  make:model           Create a new Eloquent model class
+  make:notification    Create a new notification class
+  make:observer        Create a new observer class
+  make:policy          Create a new policy class
+  make:provider        Create a new service provider class
+  make:request         Create a new form request class
+  make:resource        Create a new resource
+  make:rule            Create a new validation rule
+  make:seeder          Create a new seeder class
+  make:test            Create a new test class
+ migrate
+  migrate:fresh        Drop all tables and re-run all migrations
+  migrate:install      Create the migration repository
+  migrate:refresh      Reset and re-run all migrations
+  migrate:reset        Rollback all database migrations
+  migrate:rollback     Rollback the last database migration
+  migrate:status       Show the status of each migration
+ notifications
+  notifications:table  Create a migration for the notifications table
+ optimize
+  optimize:clear       Remove the cached bootstrap files
+ package
+  package:discover     Rebuild the cached package manifest
+ passport
+  passport:client      Create a client for issuing access tokens
+  passport:hash        Hash all of the existing secrets in the clients table
+  passport:install     Run the commands necessary to prepare Passport for use
+  passport:keys        Create the encryption keys for API authentication
+  passport:purge       Purge revoked and / or expired tokens and authentication codes
+ queue
+  queue:failed         List all of the failed queue jobs
+  queue:failed-table   Create a migration for the failed queue jobs database table
+  queue:flush          Flush all of the failed queue jobs
+  queue:forget         Delete a failed queue job
+  queue:listen         Listen to a given queue
+  queue:restart        Restart queue worker daemons after their current job
+  queue:retry          Retry a failed queue job
+  queue:table          Create a migration for the queue jobs database table
+  queue:work           Start processing jobs on the queue as a daemon
+ route
+  route:cache          Create a route cache file for faster route registration
+  route:clear          Remove the route cache file
+  route:list           List all registered routes
+ schedule
+  schedule:run         Run the scheduled commands
+ session
+  session:table        Create a migration for the session database table
+ storage
+  storage:link         Create the symbolic links configured for the application
+ stub
+  stub:publish         Publish all stubs that are available for customization
+ ui
+  ui:auth              Scaffold basic login and registration views and routes
+  ui:controllers       Scaffold the authentication controllers
+ vendor
+  vendor:publish       Publish any publishable assets from vendor packages
+ view
+  view:cache           Compile all of the application's Blade templates
+  view:clear           Clear all compiled view files
+___VSCODE_LARAVEL_EXTRA_INSTELLISENSE_OUTPUT___
+   Symfony\Component\ErrorHandler\Error\FatalError 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+  > 1|
+
+
+   Whoops\Exception\ErrorException 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+
+   Whoops\Exception\ErrorException 
+
+  file_get_contents(Command line code): Failed to open stream: No such file or directory
+
+  at C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+    119|                 return null;
+    120|             }
+    121| 
+    122|             try {
+  > 123|                 $this->fileContentsCache = file_get_contents($filePath);
+    124|             } catch (ErrorException $exception) {
+    125|                 // Internal file paths of PHP extensions cannot be opened
+    126|             }
+    127|         }
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+      file_get_contents()
+
+  2   C:\Code\igreja-de-cristo\vendor\nunomaduro\collision\src\Writer.php:276
+      Whoops\Exception\Frame::getFileContents()
+  > 1|
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Run.php:486
+      Whoops\Run::handleError()
+
+  2   [internal]:0
+      Whoops\Run::handleShutdown()
+
+[2021-05-02 16:21:16.379] [renderer1] [error] PARSE ERROR: Laravel Framework 7.30.4
+
+Usage:
+  command [options] [arguments]
+
+Options:
+  -h, --help            Display help for the given command. When no command is given display help for the list command
+  -q, --quiet           Do not output any message
+  -V, --version         Display this application version
+      --ansi            Force ANSI output
+      --no-ansi         Disable ANSI output
+  -n, --no-interaction  Do not ask any interactive question
+      --env[=ENV]       The environment the command should run under
+  -v|vv|vvv, --verbose  Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
+
+Available commands:
+  clear-compiled       Remove the compiled class file
+  down                 Put the application into maintenance mode
+  env                  Display the current framework environment
+  help                 Display help for a command
+  inspire              Display an inspiring quote
+  list                 List commands
+  migrate              Run the database migrations
+  optimize             Cache the framework bootstrap files
+  serve                Serve the application on the PHP development server
+  test                 Run the application tests
+  tinker               Interact with your application
+  ui                   Swap the front-end scaffolding for the application
+  up                   Bring the application out of maintenance mode
+ adminlte
+  adminlte:install     Install all the required files for AdminLTE, and additional resources
+  adminlte:plugins     Manages the installation and removal of additional AdminLTE plugins
+  adminlte:status      Checks the installation status of the AdminLTE resources
+  adminlte:update      Update all the required assets for AdminLTE
+ apidoc
+  apidoc:generate      Generate your API documentation from existing Laravel routes.
+  apidoc:rebuild       Rebuild your API documentation from your markdown file.
+ auth
+  auth:clear-resets    Flush expired password reset tokens
+ cache
+  cache:clear          Flush the application cache
+  cache:forget         Remove an item from the cache
+  cache:table          Create a migration for the cache database table
+ config
+  config:cache         Create a cache file for faster configuration loading
+  config:clear         Remove the configuration cache file
+ db
+  db:seed              Seed the database with records
+  db:wipe              Drop all tables, views, and types
+ debugbar
+  debugbar:clear       Clear the Debugbar Storage
+ event
+  event:cache          Discover and cache the application's events and listeners
+  event:clear          Clear all cached events and listeners
+  event:generate       Generate the missing events and listeners based on registration
+  event:list           List the application's events and listeners
+ jwt
+  jwt:secret           Set the JWTAuth secret key used to sign the tokens
+ key
+  key:generate         Set the application key
+ make
+  make:cast            Create a new custom Eloquent cast class
+  make:channel         Create a new channel class
+  make:command         Create a new Artisan command
+  make:component       Create a new view component class
+  make:controller      Create a new controller class
+  make:event           Create a new event class
+  make:exception       Create a new custom exception class
+  make:factory         Create a new model factory
+  make:job             Create a new job class
+  make:listener        Create a new event listener class
+  make:mail            Create a new email class
+  make:middleware      Create a new middleware class
+  make:migration       Create a new migration file
+  make:model           Create a new Eloquent model class
+  make:notification    Create a new notification class
+  make:observer        Create a new observer class
+  make:policy          Create a new policy class
+  make:provider        Create a new service provider class
+  make:request         Create a new form request class
+  make:resource        Create a new resource
+  make:rule            Create a new validation rule
+  make:seeder          Create a new seeder class
+  make:test            Create a new test class
+ migrate
+  migrate:fresh        Drop all tables and re-run all migrations
+  migrate:install      Create the migration repository
+  migrate:refresh      Reset and re-run all migrations
+  migrate:reset        Rollback all database migrations
+  migrate:rollback     Rollback the last database migration
+  migrate:status       Show the status of each migration
+ notifications
+  notifications:table  Create a migration for the notifications table
+ optimize
+  optimize:clear       Remove the cached bootstrap files
+ package
+  package:discover     Rebuild the cached package manifest
+ passport
+  passport:client      Create a client for issuing access tokens
+  passport:hash        Hash all of the existing secrets in the clients table
+  passport:install     Run the commands necessary to prepare Passport for use
+  passport:keys        Create the encryption keys for API authentication
+  passport:purge       Purge revoked and / or expired tokens and authentication codes
+ queue
+  queue:failed         List all of the failed queue jobs
+  queue:failed-table   Create a migration for the failed queue jobs database table
+  queue:flush          Flush all of the failed queue jobs
+  queue:forget         Delete a failed queue job
+  queue:listen         Listen to a given queue
+  queue:restart        Restart queue worker daemons after their current job
+  queue:retry          Retry a failed queue job
+  queue:table          Create a migration for the queue jobs database table
+  queue:work           Start processing jobs on the queue as a daemon
+ route
+  route:cache          Create a route cache file for faster route registration
+  route:clear          Remove the route cache file
+  route:list           List all registered routes
+ schedule
+  schedule:run         Run the scheduled commands
+ session
+  session:table        Create a migration for the session database table
+ storage
+  storage:link         Create the symbolic links configured for the application
+ stub
+  stub:publish         Publish all stubs that are available for customization
+ ui
+  ui:auth              Scaffold basic login and registration views and routes
+  ui:controllers       Scaffold the authentication controllers
+ vendor
+  vendor:publish       Publish any publishable assets from vendor packages
+ view
+  view:cache           Compile all of the application's Blade templates
+  view:clear           Clear all compiled view files
+___VSCODE_LARAVEL_EXTRA_INSTELLISENSE_OUTPUT___
+   Symfony\Component\ErrorHandler\Error\FatalError 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+  > 1|
+
+
+   Whoops\Exception\ErrorException 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+
+   Whoops\Exception\ErrorException 
+
+  file_get_contents(Command line code): Failed to open stream: No such file or directory
+
+  at C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+    119|                 return null;
+    120|             }
+    121| 
+    122|             try {
+  > 123|                 $this->fileContentsCache = file_get_contents($filePath);
+    124|             } catch (ErrorException $exception) {
+    125|                 // Internal file paths of PHP extensions cannot be opened
+    126|             }
+    127|         }
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+      file_get_contents()
+
+  2   C:\Code\igreja-de-cristo\vendor\nunomaduro\collision\src\Writer.php:276
+      Whoops\Exception\Frame::getFileContents()
+  > 1|
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Run.php:486
+      Whoops\Run::handleError()
+
+  2   [internal]:0
+      Whoops\Run::handleShutdown()
+
+[2021-05-02 16:22:16.187] [renderer1] [error] PARSE ERROR: Laravel Framework 7.30.4
+
+Usage:
+  command [options] [arguments]
+
+Options:
+  -h, --help            Display help for the given command. When no command is given display help for the list command
+  -q, --quiet           Do not output any message
+  -V, --version         Display this application version
+      --ansi            Force ANSI output
+      --no-ansi         Disable ANSI output
+  -n, --no-interaction  Do not ask any interactive question
+      --env[=ENV]       The environment the command should run under
+  -v|vv|vvv, --verbose  Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
+
+Available commands:
+  clear-compiled       Remove the compiled class file
+  down                 Put the application into maintenance mode
+  env                  Display the current framework environment
+  help                 Display help for a command
+  inspire              Display an inspiring quote
+  list                 List commands
+  migrate              Run the database migrations
+  optimize             Cache the framework bootstrap files
+  serve                Serve the application on the PHP development server
+  test                 Run the application tests
+  tinker               Interact with your application
+  ui                   Swap the front-end scaffolding for the application
+  up                   Bring the application out of maintenance mode
+ adminlte
+  adminlte:install     Install all the required files for AdminLTE, and additional resources
+  adminlte:plugins     Manages the installation and removal of additional AdminLTE plugins
+  adminlte:status      Checks the installation status of the AdminLTE resources
+  adminlte:update      Update all the required assets for AdminLTE
+ apidoc
+  apidoc:generate      Generate your API documentation from existing Laravel routes.
+  apidoc:rebuild       Rebuild your API documentation from your markdown file.
+ auth
+  auth:clear-resets    Flush expired password reset tokens
+ cache
+  cache:clear          Flush the application cache
+  cache:forget         Remove an item from the cache
+  cache:table          Create a migration for the cache database table
+ config
+  config:cache         Create a cache file for faster configuration loading
+  config:clear         Remove the configuration cache file
+ db
+  db:seed              Seed the database with records
+  db:wipe              Drop all tables, views, and types
+ debugbar
+  debugbar:clear       Clear the Debugbar Storage
+ event
+  event:cache          Discover and cache the application's events and listeners
+  event:clear          Clear all cached events and listeners
+  event:generate       Generate the missing events and listeners based on registration
+  event:list           List the application's events and listeners
+ jwt
+  jwt:secret           Set the JWTAuth secret key used to sign the tokens
+ key
+  key:generate         Set the application key
+ make
+  make:cast            Create a new custom Eloquent cast class
+  make:channel         Create a new channel class
+  make:command         Create a new Artisan command
+  make:component       Create a new view component class
+  make:controller      Create a new controller class
+  make:event           Create a new event class
+  make:exception       Create a new custom exception class
+  make:factory         Create a new model factory
+  make:job             Create a new job class
+  make:listener        Create a new event listener class
+  make:mail            Create a new email class
+  make:middleware      Create a new middleware class
+  make:migration       Create a new migration file
+  make:model           Create a new Eloquent model class
+  make:notification    Create a new notification class
+  make:observer        Create a new observer class
+  make:policy          Create a new policy class
+  make:provider        Create a new service provider class
+  make:request         Create a new form request class
+  make:resource        Create a new resource
+  make:rule            Create a new validation rule
+  make:seeder          Create a new seeder class
+  make:test            Create a new test class
+ migrate
+  migrate:fresh        Drop all tables and re-run all migrations
+  migrate:install      Create the migration repository
+  migrate:refresh      Reset and re-run all migrations
+  migrate:reset        Rollback all database migrations
+  migrate:rollback     Rollback the last database migration
+  migrate:status       Show the status of each migration
+ notifications
+  notifications:table  Create a migration for the notifications table
+ optimize
+  optimize:clear       Remove the cached bootstrap files
+ package
+  package:discover     Rebuild the cached package manifest
+ passport
+  passport:client      Create a client for issuing access tokens
+  passport:hash        Hash all of the existing secrets in the clients table
+  passport:install     Run the commands necessary to prepare Passport for use
+  passport:keys        Create the encryption keys for API authentication
+  passport:purge       Purge revoked and / or expired tokens and authentication codes
+ queue
+  queue:failed         List all of the failed queue jobs
+  queue:failed-table   Create a migration for the failed queue jobs database table
+  queue:flush          Flush all of the failed queue jobs
+  queue:forget         Delete a failed queue job
+  queue:listen         Listen to a given queue
+  queue:restart        Restart queue worker daemons after their current job
+  queue:retry          Retry a failed queue job
+  queue:table          Create a migration for the queue jobs database table
+  queue:work           Start processing jobs on the queue as a daemon
+ route
+  route:cache          Create a route cache file for faster route registration
+  route:clear          Remove the route cache file
+  route:list           List all registered routes
+ schedule
+  schedule:run         Run the scheduled commands
+ session
+  session:table        Create a migration for the session database table
+ storage
+  storage:link         Create the symbolic links configured for the application
+ stub
+  stub:publish         Publish all stubs that are available for customization
+ ui
+  ui:auth              Scaffold basic login and registration views and routes
+  ui:controllers       Scaffold the authentication controllers
+ vendor
+  vendor:publish       Publish any publishable assets from vendor packages
+ view
+  view:cache           Compile all of the application's Blade templates
+  view:clear           Clear all compiled view files
+___VSCODE_LARAVEL_EXTRA_INSTELLISENSE_OUTPUT___
+   Symfony\Component\ErrorHandler\Error\FatalError 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+  > 1|
+
+
+   Whoops\Exception\ErrorException 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+
+   Whoops\Exception\ErrorException 
+
+  file_get_contents(Command line code): Failed to open stream: No such file or directory
+
+  at C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+    119|                 return null;
+    120|             }
+    121| 
+    122|             try {
+  > 123|                 $this->fileContentsCache = file_get_contents($filePath);
+    124|             } catch (ErrorException $exception) {
+    125|                 // Internal file paths of PHP extensions cannot be opened
+    126|             }
+    127|         }
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+      file_get_contents()
+
+  2   C:\Code\igreja-de-cristo\vendor\nunomaduro\collision\src\Writer.php:276
+      Whoops\Exception\Frame::getFileContents()
+  > 1|
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Run.php:486
+      Whoops\Run::handleError()
+
+  2   [internal]:0
+      Whoops\Run::handleShutdown()
+
+[2021-05-02 16:23:16.189] [renderer1] [error] PARSE ERROR: Laravel Framework 7.30.4
+
+Usage:
+  command [options] [arguments]
+
+Options:
+  -h, --help            Display help for the given command. When no command is given display help for the list command
+  -q, --quiet           Do not output any message
+  -V, --version         Display this application version
+      --ansi            Force ANSI output
+      --no-ansi         Disable ANSI output
+  -n, --no-interaction  Do not ask any interactive question
+      --env[=ENV]       The environment the command should run under
+  -v|vv|vvv, --verbose  Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
+
+Available commands:
+  clear-compiled       Remove the compiled class file
+  down                 Put the application into maintenance mode
+  env                  Display the current framework environment
+  help                 Display help for a command
+  inspire              Display an inspiring quote
+  list                 List commands
+  migrate              Run the database migrations
+  optimize             Cache the framework bootstrap files
+  serve                Serve the application on the PHP development server
+  test                 Run the application tests
+  tinker               Interact with your application
+  ui                   Swap the front-end scaffolding for the application
+  up                   Bring the application out of maintenance mode
+ adminlte
+  adminlte:install     Install all the required files for AdminLTE, and additional resources
+  adminlte:plugins     Manages the installation and removal of additional AdminLTE plugins
+  adminlte:status      Checks the installation status of the AdminLTE resources
+  adminlte:update      Update all the required assets for AdminLTE
+ apidoc
+  apidoc:generate      Generate your API documentation from existing Laravel routes.
+  apidoc:rebuild       Rebuild your API documentation from your markdown file.
+ auth
+  auth:clear-resets    Flush expired password reset tokens
+ cache
+  cache:clear          Flush the application cache
+  cache:forget         Remove an item from the cache
+  cache:table          Create a migration for the cache database table
+ config
+  config:cache         Create a cache file for faster configuration loading
+  config:clear         Remove the configuration cache file
+ db
+  db:seed              Seed the database with records
+  db:wipe              Drop all tables, views, and types
+ debugbar
+  debugbar:clear       Clear the Debugbar Storage
+ event
+  event:cache          Discover and cache the application's events and listeners
+  event:clear          Clear all cached events and listeners
+  event:generate       Generate the missing events and listeners based on registration
+  event:list           List the application's events and listeners
+ jwt
+  jwt:secret           Set the JWTAuth secret key used to sign the tokens
+ key
+  key:generate         Set the application key
+ make
+  make:cast            Create a new custom Eloquent cast class
+  make:channel         Create a new channel class
+  make:command         Create a new Artisan command
+  make:component       Create a new view component class
+  make:controller      Create a new controller class
+  make:event           Create a new event class
+  make:exception       Create a new custom exception class
+  make:factory         Create a new model factory
+  make:job             Create a new job class
+  make:listener        Create a new event listener class
+  make:mail            Create a new email class
+  make:middleware      Create a new middleware class
+  make:migration       Create a new migration file
+  make:model           Create a new Eloquent model class
+  make:notification    Create a new notification class
+  make:observer        Create a new observer class
+  make:policy          Create a new policy class
+  make:provider        Create a new service provider class
+  make:request         Create a new form request class
+  make:resource        Create a new resource
+  make:rule            Create a new validation rule
+  make:seeder          Create a new seeder class
+  make:test            Create a new test class
+ migrate
+  migrate:fresh        Drop all tables and re-run all migrations
+  migrate:install      Create the migration repository
+  migrate:refresh      Reset and re-run all migrations
+  migrate:reset        Rollback all database migrations
+  migrate:rollback     Rollback the last database migration
+  migrate:status       Show the status of each migration
+ notifications
+  notifications:table  Create a migration for the notifications table
+ optimize
+  optimize:clear       Remove the cached bootstrap files
+ package
+  package:discover     Rebuild the cached package manifest
+ passport
+  passport:client      Create a client for issuing access tokens
+  passport:hash        Hash all of the existing secrets in the clients table
+  passport:install     Run the commands necessary to prepare Passport for use
+  passport:keys        Create the encryption keys for API authentication
+  passport:purge       Purge revoked and / or expired tokens and authentication codes
+ queue
+  queue:failed         List all of the failed queue jobs
+  queue:failed-table   Create a migration for the failed queue jobs database table
+  queue:flush          Flush all of the failed queue jobs
+  queue:forget         Delete a failed queue job
+  queue:listen         Listen to a given queue
+  queue:restart        Restart queue worker daemons after their current job
+  queue:retry          Retry a failed queue job
+  queue:table          Create a migration for the queue jobs database table
+  queue:work           Start processing jobs on the queue as a daemon
+ route
+  route:cache          Create a route cache file for faster route registration
+  route:clear          Remove the route cache file
+  route:list           List all registered routes
+ schedule
+  schedule:run         Run the scheduled commands
+ session
+  session:table        Create a migration for the session database table
+ storage
+  storage:link         Create the symbolic links configured for the application
+ stub
+  stub:publish         Publish all stubs that are available for customization
+ ui
+  ui:auth              Scaffold basic login and registration views and routes
+  ui:controllers       Scaffold the authentication controllers
+ vendor
+  vendor:publish       Publish any publishable assets from vendor packages
+ view
+  view:cache           Compile all of the application's Blade templates
+  view:clear           Clear all compiled view files
+___VSCODE_LARAVEL_EXTRA_INSTELLISENSE_OUTPUT___
+   Symfony\Component\ErrorHandler\Error\FatalError 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+  > 1|
+
+
+   Whoops\Exception\ErrorException 
+
+  Uncaught ReflectionException: Class "App\Listeners\UserEventSubscriber@registerCustomSession" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown
+
+  at Command line code:1
+
+   Whoops\Exception\ErrorException 
+
+  file_get_contents(Command line code): Failed to open stream: No such file or directory
+
+  at C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+    119|                 return null;
+    120|             }
+    121| 
+    122|             try {
+  > 123|                 $this->fileContentsCache = file_get_contents($filePath);
+    124|             } catch (ErrorException $exception) {
+    125|                 // Internal file paths of PHP extensions cannot be opened
+    126|             }
+    127|         }
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Exception\Frame.php:123
+      file_get_contents()
+
+  2   C:\Code\igreja-de-cristo\vendor\nunomaduro\collision\src\Writer.php:276
+      Whoops\Exception\Frame::getFileContents()
+  > 1|
+
+  1   C:\Code\igreja-de-cristo\vendor\filp\whoops\src\Whoops\Run.php:486
+      Whoops\Run::handleError()
+
+  2   [internal]:0
+      Whoops\Run::handleShutdown()
+
+[2021-05-02 16:24:15.721] [renderer1] [error] PHP Fatal error:  Constant expression contains invalid operations in C:\Code\igreja-de-cristo\app\Console\Kernel.php on line 15
+
+[2021-05-02 16:25:15.721] [renderer1] [error] PHP Fatal error:  Constant expression contains invalid operations in C:\Code\igreja-de-cristo\app\Console\Kernel.php on line 15
+

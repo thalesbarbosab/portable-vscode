@@ -1,0 +1,204 @@
+Looking for git in: C:\Program Files\Git\cmd\git.exe
+Using git 2.29.2.windows.3 from C:\Program Files\Git\cmd\git.exe
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test\index.php' failed; ex=spawn C:\Program Files\Git\cmd\git.exe ENOENT {
+  "gitErrorCode": "NotAGitRepository"
+}Error: spawn C:\Program Files\Git\cmd\git.exe ENOENT
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+	at onErrorNT (internal/child_process.js:469:16)
+	at processTicksAndRejections (internal/process/task_queues.js:84:21)
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='e:\Users\Thales Barbosa Bento\Downloads\test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}

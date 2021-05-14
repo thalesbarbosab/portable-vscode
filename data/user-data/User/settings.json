@@ -1,0 +1,21 @@
+{
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "workbench.sideBar.location": "left",
+    "explorer.confirmDelete": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "git.autofetch": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "git.enableSmartCommit": true,
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontSize": 16,
+    "diffEditor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "php.executablePath": "C:\\Program Files (x86)/php-8.0.5-nts-Win32-vs16-x64\\php.exe"
+}

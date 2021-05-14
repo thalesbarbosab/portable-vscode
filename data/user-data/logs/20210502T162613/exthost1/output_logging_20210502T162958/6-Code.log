@@ -1,0 +1,9 @@
+[Running] php "c:\Code\igreja-de-cristo\tempCodeRunnerFile.php"
+Teste
+[Done] exited with code=0 in 0.404 seconds
+
+[Running] php "c:\Code\igreja-de-cristo\tempCodeRunnerFile.php"
+PHP Parse error:  syntax error, unexpected identifier "s", expecting "," or ";" in C:\Code\igreja-de-cristo\tempCodeRunnerFile.php on line 2
+
+[Done] exited with code=255 in 0.304 seconds
+

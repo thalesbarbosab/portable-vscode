@@ -1,0 +1,9 @@
+[Info  - 4:31:39 PM] Initialising intelephense 1.7.1
+[Info  - 4:31:39 PM] Initialised in 13 ms
+[Info  - 4:31:39 PM] Environment changed. Refreshing 1 in memory documents.
+[Warn  - 4:31:41 PM] file:///c%3A/Code/mondelez.gigantesdaexecucao/vendor/composer/autoload_static.php is over the maximum file size of 1000000 bytes.
+[Warn  - 4:31:41 PM] file:///c%3A/Code/mondelez.gigantesdaexecucao/vendor/fzaninotto/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 4:31:41 PM] Indexing started.
+[Info  - 4:34:28 PM] Indexing ended. 10070 files indexed in 166s.
+[Info  - 4:34:28 PM] Writing state to c:\Code\portable-vscode\data\user-data\User\workspaceStorage\1cd5f6bc3a9a355200d8bc14c6f86a33\bmewburn.vscode-intelephense-client\310fd8f2.
+[Info  - 4:34:30 PM] Wrote state in 2.1s.

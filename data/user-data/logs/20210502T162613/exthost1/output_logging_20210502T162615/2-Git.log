@@ -1,0 +1,44 @@
+Looking for git in: C:\Program Files\Git\cmd\git.exe
+Using git 2.29.2.windows.3 from C:\Program Files\Git\cmd\git.exe
+> git rev-parse --git-dir
+Open repository: c:\Code\igreja-de-cristo
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git show --textconv :app/Http/Controllers/Cms/BeController.php
+> git ls-files --stage -- C:\Code\igreja-de-cristo\app\Http\Controllers\Cms\BeController.php
+> git cat-file -s 929c95267f60ae9fe930f2d507ba2c13587c57ba
+> git fetch
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Models/Church.php
+> git ls-files --stage -- C:\Code\igreja-de-cristo\app\Models\Church.php
+> git cat-file -s 8fc19e1d788151e3f091aee28097f3bcc9a15dec
+> git show --textconv :app/Http/Controllers/Cms/BeController.php
+> git ls-files --stage -- C:\Code\igreja-de-cristo\app\Http\Controllers\Cms\BeController.php
+> git cat-file -s 929c95267f60ae9fe930f2d507ba2c13587c57ba

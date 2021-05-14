@@ -1,0 +1,16 @@
+Looking for git in: C:\Program Files\Git\cmd\git.exe
+Using git 2.29.2.windows.3 from C:\Program Files\Git\cmd\git.exe
+> git rev-parse --git-dir
+Open repository: c:\Code\mondelez.gigantesdaexecucao
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Infrastructure/Import/JobCustomerImportGoal.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Infrastructure\Import\JobCustomerImportGoal.php
+> git cat-file -s 3d596fa81ab3b71f36809553053cd09e1ae91b2b
+> git fetch
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Infrastructure\Import\JobCustomerImportGoal.php

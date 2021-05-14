@@ -1,0 +1,18 @@
+[Info  - 4:30:48 PM] Initialising intelephense 1.7.1
+[Info  - 4:30:48 PM] Reading state from c:\Code\portable-vscode\data\user-data\User\workspaceStorage\300c72a10e731db791b10122ab493e5b\bmewburn.vscode-intelephense-client\50818173.
+[Info  - 4:30:49 PM] Initialised in 947 ms
+[Warn  - 4:30:50 PM] file:///c%3A/Code/igreja-de-cristo/vendor/fzaninotto/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 4:30:50 PM] Indexing started.
+[Info  - 4:30:50 PM] Indexing ended. 2 files indexed in 0s.
+[Info  - 4:30:50 PM] Writing state to c:\Code\portable-vscode\data\user-data\User\workspaceStorage\300c72a10e731db791b10122ab493e5b\bmewburn.vscode-intelephense-client\50818173.
+[Info  - 4:30:51 PM] Wrote state in 1.4s.
+[Info  - 4:30:53 PM] Indexing started.
+[Warn  - 4:30:53 PM] Error: ENOENT: no such file or directory, open 'c:\Code\igreja-de-cristo\tempCodeRunnerFile.php'
+[Info  - 4:30:53 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:30:53 PM] Indexing started.
+[Info  - 4:30:53 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:31:10 PM] Indexing started.
+[Warn  - 4:31:10 PM] Error: ENOENT: no such file or directory, open 'c:\Code\igreja-de-cristo\tempCodeRunnerFile.php'
+[Info  - 4:31:10 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:31:10 PM] Indexing started.
+[Info  - 4:31:11 PM] Indexing ended. 1 files indexed in 0s.

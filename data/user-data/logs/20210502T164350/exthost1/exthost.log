@@ -1,0 +1,109 @@
+[2021-05-02 16:43:53.039] [exthost] [info] extension host started
+[2021-05-02 16:43:53.160] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-05-02 16:43:53.160] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-05-02 16:43:53.173] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:43:53.173] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/php-language-features/dist/phpMain
+[2021-05-02 16:43:53.182] [exthost] [info] ExtensionService#_doActivateExtension amiralizadeh9480.laravel-extra-intellisense {"startup":false,"extensionId":{"value":"amiralizadeh9480.laravel-extra-intellisense","_lower":"amiralizadeh9480.laravel-extra-intellisense"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:43:53.182] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.1/dist/extension.js
+[2021-05-02 16:43:53.194] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client {"startup":false,"extensionId":{"value":"bmewburn.vscode-intelephense-client","_lower":"bmewburn.vscode-intelephense-client"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:43:53.194] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension
+[2021-05-02 16:43:53.211] [exthost] [info] ExtensionService#_doActivateExtension codingyu.laravel-goto-view {"startup":false,"extensionId":{"value":"codingyu.laravel-goto-view","_lower":"codingyu.laravel-goto-view"},"activationEvent":"onLanguage:php"}
+[2021-05-02 16:43:53.211] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/codingyu.laravel-goto-view-1.3.4/out/src/extension
+[2021-05-02 16:43:53.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-02 16:43:53.235] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-05-02 16:43:53.238] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-02 16:43:53.239] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/git/dist/main
+[2021-05-02 16:43:53.273] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-05-02 16:43:53.273] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/christian-kohler.path-intellisense-2.3.0/out/extension.js
+[2021-05-02 16:43:53.349] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-05-02 16:43:53.349] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-05-02 16:43:53.489] [exthost] [info] ExtensionService#_doActivateExtension stef-k.laravel-goto-controller {"startup":true,"extensionId":{"value":"stef-k.laravel-goto-controller","_lower":"stef-k.laravel-goto-controller"},"activationEvent":"*"}
+[2021-05-02 16:43:53.489] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/stef-k.laravel-goto-controller-0.0.12/out/extension
+[2021-05-02 16:43:53.505] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-05-02 16:43:53.505] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/npm/dist/npmMain
+[2021-05-02 16:43:54.781] [exthost] [info] WSL is not installed, so could not detect WSL profiles
+[2021-05-02 16:43:54.813] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-02 16:43:54.815] [exthost] [error] TypeError: Cannot read property 'substring' of undefined
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:42:69)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-02 16:43:54.892] [exthost] [info] ExtensionService#_doActivateExtension ryannaddy.laravel-artisan {"startup":true,"extensionId":{"value":"ryannaddy.laravel-artisan","_lower":"ryannaddy.laravel-artisan"},"activationEvent":"workspaceContains:**/artisan"}
+[2021-05-02 16:43:54.892] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/ryannaddy.laravel-artisan-0.0.27/out/src/extension
+[2021-05-02 16:43:55.618] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-02 16:43:55.618] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-02 16:43:55.906] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-05-02 16:43:55.906] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github-authentication/dist/extension.js
+[2021-05-02 16:43:56.051] [exthost] [error] [stef-k.laravel-goto-controller] provider FAILED
+[2021-05-02 16:43:56.052] [exthost] [error] TypeError: Cannot read property 'substring' of undefined
+	at LinkProvider.provideDocumentLinks (c:\Code\portable-vscode\data\extensions\stef-k.laravel-goto-controller-0.0.12\out\link.js:42:69)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174320
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12046
+	at new Promise (<anonymous>)
+	at g (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:64:12018)
+	at V.provideLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:174300)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190957
+	at Ie._withAdapter (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:179343)
+	at Ie.$provideDocumentLinks (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:86:190933)
+	at u._doInvokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12794)
+	at u._invokeHandler (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12478)
+	at u._receiveRequest (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:11094)
+	at u._receiveOneMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:9931)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:8032
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:29750
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at E.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:15496)
+	at t._receiveMessage (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:20754)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:17640
+	at _.fire (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:57:1836)
+	at acceptChunk (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12861)
+	at c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:65:12209
+	at Socket.w (c:\Code\portable-vscode\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:105:13173)
+	at Socket.emit (events.js:315:20)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:271:9)
+	at Socket.Readable.push (_stream_readable.js:212:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-05-02 16:43:56.052] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-02 16:43:56.052] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/github/dist/extension.js
+[2021-05-02 16:43:57.024] [exthost] [info] eager extensions activated
+[2021-05-02 16:43:57.038] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:43:57.038] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-02 16:43:57.045] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:43:57.046] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-02 16:43:57.049] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl-recommender","_lower":"ms-vscode-remote.remote-wsl-recommender"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:43:57.049] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-05-02 16:43:57.057] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:43:57.058] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-02 16:43:57.060] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-05-02 16:43:57.060] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Code/portable-vscode/data/extensions/formulahendry.code-runner-0.11.3/out/src/extension
+[2021-05-02 16:45:36.950] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-02 16:45:37.976] [exthost] [info] exiting with code 0

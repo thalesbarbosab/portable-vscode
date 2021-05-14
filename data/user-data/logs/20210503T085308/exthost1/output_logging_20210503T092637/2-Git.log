@@ -1,0 +1,410 @@
+Looking for git in: C:\Program Files\Git\cmd\git.exe
+Using git 2.29.2.windows.3 from C:\Program Files\Git\cmd\git.exe
+> git rev-parse --git-dir
+Open repository: c:\Code\mondelez.gigantesdaexecucao
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Infrastructure/Import/JobCustomerImportGoal.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Infrastructure\Import\JobCustomerImportGoal.php
+> git cat-file -s 3d596fa81ab3b71f36809553053cd09e1ae91b2b
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Infrastructure\Import\JobCustomerImportGoal.php
+> git cat-file -s 3d596fa81ab3b71f36809553053cd09e1ae91b2b
+> git show --textconv :app/Infrastructure/Import/JobCustomerImportGoal.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Infrastructure\Import\JobCustomerImportGoal.php
+> git config --get commit.template
+> git cat-file -s 3d596fa81ab3b71f36809553053cd09e1ae91b2b
+> git show --textconv :app/Infrastructure/Import/JobCustomerImportGoal.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/App/Core/Listeners/CustomerEventSubscriber.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Core\Listeners\CustomerEventSubscriber.php
+> git cat-file -s 2538c1b140e75c7ac25389e9363492cda3a8b624
+> git show --textconv :app/Infrastructure/Tools/PremmiarApi.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Infrastructure\Tools\PremmiarApi.php
+> git cat-file -s 1bfb50f30ebdb04c29a721020e6b610c98a2f901
+> git check-ignore -v -z --stdin
+> git show --textconv :app/App/Web/Http/Controllers/CustomerController.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Web\Http\Controllers\CustomerController.php
+> git cat-file -s fa7a76687afc4cfca6ed2f0747dc45847bc884f9
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Infrastructure/Tools/PremmiarApi.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Infrastructure\Tools\PremmiarApi.php
+> git cat-file -s 1bfb50f30ebdb04c29a721020e6b610c98a2f901
+> git fetch
+> git status -z -u
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Infrastructure\Tools\PremmiarApi.php
+> git cat-file -s 1bfb50f30ebdb04c29a721020e6b610c98a2f901
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git show --textconv :app/Infrastructure/Tools/PremmiarApi.php
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Infrastructure\Tools\PremmiarApi.php
+> git cat-file -s 1bfb50f30ebdb04c29a721020e6b610c98a2f901
+> git show --textconv :app/Infrastructure/Tools/PremmiarApi.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Infrastructure\Tools\PremmiarApi.php
+> git cat-file -s 1bfb50f30ebdb04c29a721020e6b610c98a2f901
+> git status -z -u
+> git show --textconv :app/Infrastructure/Tools/PremmiarApi.php
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Infrastructure\Tools\PremmiarApi.php
+> git config --get commit.template
+> git cat-file -s 1bfb50f30ebdb04c29a721020e6b610c98a2f901
+> git show --textconv :app/Infrastructure/Tools/PremmiarApi.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/App/Web/Http/Controllers/CustomerController.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Web\Http\Controllers\CustomerController.php
+> git cat-file -s fa7a76687afc4cfca6ed2f0747dc45847bc884f9
+> git show --textconv :app/Infrastructure/Tools/PremmiarApi.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\Infrastructure\Tools\PremmiarApi.php
+> git cat-file -s 1bfb50f30ebdb04c29a721020e6b610c98a2f901
+> git show --textconv :app/App/Core/Listeners/CustomerEventSubscriber.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Core\Listeners\CustomerEventSubscriber.php
+> git cat-file -s 2538c1b140e75c7ac25389e9363492cda3a8b624
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/App/Web/resources/views/components/menu.blade.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Web\resources\views\components\menu.blade.php
+> git cat-file -s 7e165be9923cf2b40e7a437ab816c3f94053dec8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Web\resources\views\components\menu.blade.php
+> git cat-file -s 7e165be9923cf2b40e7a437ab816c3f94053dec8
+> git show --textconv :app/App/Web/resources/views/components/menu.blade.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Web\resources\views\components\menu.blade.php
+> git config --get commit.template
+> git cat-file -s 7e165be9923cf2b40e7a437ab816c3f94053dec8
+> git show --textconv :app/App/Web/resources/views/components/menu.blade.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Web\resources\views\components\menu.blade.php
+> git cat-file -s 7e165be9923cf2b40e7a437ab816c3f94053dec8
+> git show --textconv :app/App/Web/resources/views/components/menu.blade.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Web\resources\views\components\menu.blade.php
+> git cat-file -s 7e165be9923cf2b40e7a437ab816c3f94053dec8
+> git show --textconv :app/App/Web/resources/views/components/menu.blade.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Web\resources\views\components\menu.blade.php
+> git config --get commit.template
+> git cat-file -s 7e165be9923cf2b40e7a437ab816c3f94053dec8
+> git show --textconv :app/App/Web/resources/views/components/menu.blade.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Web\resources\views\components\menu.blade.php
+> git cat-file -s 7e165be9923cf2b40e7a437ab816c3f94053dec8
+> git show --textconv :app/App/Web/resources/views/components/menu.blade.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Web\resources\views\components\menu.blade.php
+> git cat-file -s 7e165be9923cf2b40e7a437ab816c3f94053dec8
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git show --textconv :app/App/Web/resources/views/components/menu.blade.php
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Web\resources\views\components\menu.blade.php
+> git cat-file -s 7e165be9923cf2b40e7a437ab816c3f94053dec8
+> git show --textconv :app/App/Web/resources/views/components/menu.blade.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Web\resources\views\components\menu.blade.php
+> git config --get commit.template
+> git cat-file -s 7e165be9923cf2b40e7a437ab816c3f94053dec8
+> git show --textconv :app/App/Web/resources/views/components/menu.blade.php
+> git show --textconv :app/App/Core/Listeners/CustomerEventSubscriber.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Core\Listeners\CustomerEventSubscriber.php
+> git cat-file -s 2538c1b140e75c7ac25389e9363492cda3a8b624
+> git check-ignore -v -z --stdin
+> git show --textconv :app/App/Web/routes/web.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Web\routes\web.php
+> git cat-file -s e9a6f8212d890580ef1683a56bfe88d5c7b5a57d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git show --textconv :app/App/Core/Listeners/CustomerEventSubscriber.php
+> git ls-files --stage -- C:\Code\mondelez.gigantesdaexecucao\app\App\Core\Listeners\CustomerEventSubscriber.php
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git cat-file -s 2538c1b140e75c7ac25389e9363492cda3a8b624
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/tarefa9324 refs/remotes/tarefa9324
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

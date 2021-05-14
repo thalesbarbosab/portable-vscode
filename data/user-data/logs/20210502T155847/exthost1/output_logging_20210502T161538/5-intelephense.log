@@ -1,0 +1,8 @@
+[Info  - 4:15:38 PM] Initialising intelephense 1.7.1
+[Info  - 4:15:38 PM] Initialised in 21 ms
+[Info  - 4:15:38 PM] Environment changed. Refreshing 1 in memory documents.
+[Warn  - 4:15:40 PM] file:///c%3A/Code/igreja-de-cristo/vendor/fzaninotto/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 4:15:40 PM] Indexing started.
+[Info  - 4:16:34 PM] Indexing ended. 7404 files indexed in 54s.
+[Info  - 4:16:34 PM] Writing state to c:\Code\portable-vscode\data\user-data\User\workspaceStorage\300c72a10e731db791b10122ab493e5b\bmewburn.vscode-intelephense-client\50818173.
+[Info  - 4:16:36 PM] Wrote state in 2.0s.
